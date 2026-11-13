@@ -54,23 +54,33 @@ src_data/data.js
                            └─ build_dist.mjs ──▶ dist/
 ```
 
-## 部署到 GitHub Pages（推荐）
+## 部署到 GitHub Pages
 
-仓库已配好 `.github/workflows/pages.yml`：push 到 `main` 后自动构建并发布 `dist/`。
+线上地址：**https://journeyhans.github.io/poe-tool-kit/**
 
-1. 在 GitHub 新建仓库（**Public**；私有仓库需 Pro 才可用 Pages）。
-2. 推送：
+仓库用 `.github/workflows/pages.yml` 做持续部署：
+
+```
+push main ──▶ npm run build ──▶ 把 dist/ 强制推送到 gh-pages 分支 ──▶ Pages 自动发布
+```
+
+- **无需手动配置 Pages**：第一次推送 `gh-pages` 分支后，GitHub 会自动启用 Pages（本仓库已启用）；
+- 站点源是 **Deploy from a branch → `gh-pages` / (root)**；
+- 以后只需要 push 到 `main`，Action 会自动重建并更新站点；
+- 也可以用 Actions 页面的 **Run workflow** 手动触发。
+
+克隆到新仓库时：
+
+1. 推送到 `main`：
    ```bash
    git remote add origin https://github.com/<用户名>/<仓库名>.git
    git push -u origin main
    ```
-3. 仓库 **Settings → Pages → Build and deployment → Source** 选 **GitHub Actions**（只需设置一次）。
-4. 打开 **Actions**，等 `Deploy to GitHub Pages` 跑完，访问：
-   `https://<用户名>.github.io/<仓库名>/`
+2. 到 **Actions** 等 `Build and deploy to GitHub Pages` 跑完（它会创建/更新 `gh-pages`）；
+3. 如果 Pages 没有自动启用：**Settings → Pages → Source** 选 *Deploy from a branch* → `gh-pages` / `(root)` → Save；
+4. 访问 `https://<用户名>.github.io/<仓库名>/`。
 
-之后每次 push 到 `main` 都会自动重建发布；也可以在 Actions 里手动 `Run workflow`。
-
-> 如果 `deploy-pages` 报 “Pages is not enabled”，就是第 3 步没设置。
+> 私有仓库需要 GitHub Pro 才能用 Pages，建议 Public。
 
 ## 其他分享方式
 
