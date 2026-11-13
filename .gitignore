@@ -1,0 +1,16 @@
+# 构建产物（由 CI / npm run build 生成，不入库）
+dist/
+poe1-atlas-cn.zip
+site/index.html
+site/atlas-standalone.html
+site/guide.html
+
+# 本地开发 / 测试产物
+shots/
+node_modules/
+__pycache__/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+[
+ "Your Maps which contain Unstable Breaches have 10% chance to contain two additional Unstable Breaches",
+ "Your Maps which contain Unstable Breaches have 5% chance to contain three additional Unstable Breaches",
+ "Your Maps which contain Unstable Breaches have 1% chance to contain ten additional Unstable Breaches",
+ "Abysses in your Maps have a 25% chance to contain 3 additional Pits",
+ "Abysses in your Maps roll number of Pits twice, keeping the highest value",
+ "Abyss Pits in your Maps have 8% chance to spawn all Monsters as at least Magic for each prior Pit closed",
+ "Abyss Pits in your Maps spawn 4% increased Monsters for each prior Pit closed",
+ "10% increased number of Rare Monsters in your Maps",
+ "Tier 1-15 Maps found have 15% chance to become 1 tier higher",
+ "Ritual Altars in your Maps allow rerolling Favours 2 additional times",
+ "Rerolling Favours at Ritual Altars in your Maps has no Cost 1 additional time"
+]

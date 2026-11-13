@@ -1,0 +1,2879 @@
+[
+ {
+  "slug": "Eldritch_Gateway",
+  "name": "古灵跳跃点",
+  "count": "数量: 2",
+  "mods": [
+   "与古灵跳跃点链接"
+  ]
+ },
+ {
+  "slug": "Cryptic_Gateway",
+  "name": "隐秘跳跃点",
+  "count": "数量: 2",
+  "mods": [
+   "与隐秘跳跃点链接"
+  ]
+ },
+ {
+  "slug": "Mortal_Gateway",
+  "name": "凡间跳跃点",
+  "count": "数量: 2",
+  "mods": [
+   "与凡间跳跃点链接"
+  ]
+ },
+ {
+  "slug": "The_Paths_Not_Taken",
+  "name": "未行之路",
+  "count": "",
+  "mods": [
+   "在你地图中找到的命运卡将来自随机另外两张地图，\n而不是你当前所在的地图"
+  ]
+ },
+ {
+  "slug": "Synthesised_Stability",
+  "name": "统合稳定",
+  "count": "专精: 异界回忆",
+  "mods": [
+   "在塑造之域内完成地图目标时，将使该区域内的另一张地图塌缩"
+  ]
+ },
+ {
+  "slug": "Enemy_at_the_Gates",
+  "name": "兵临城下",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Dimensional_Foothold",
+  "name": "维度据点",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Thorough_Exploration",
+  "name": "全面探险",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Ruinous_Wager",
+  "name": "摧灭豪赌",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪怪物会用特殊能力对你施加摧灭\n积累 7 层摧灭时失效"
+  ]
+ },
+ {
+  "slug": "Gruelling_Gauntlet",
+  "name": "煎熬试炼",
+  "count": "",
+  "mods": [
+   "玩家无法选择每轮生效的致命贪婪词缀",
+   "地图内的致命贪婪遭遇战最多持续 13 轮"
+  ]
+ },
+ {
+  "slug": "Overloaded_Circuits",
+  "name": "电路超载",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Destructive_Play",
+  "name": "毁灭游戏",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Lucid_Dreams",
+  "name": "清明梦",
+  "count": "",
+  "mods": [
+   "你地图中的瓦尔区域不再被腐化"
+  ]
+ },
+ {
+  "slug": "Meticulous_Appraiser",
+  "name": "严谨鉴定师",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Cassias_Pride",
+  "name": "卡西娅之傲",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Speaker_of_the_Dead",
+  "name": "亡者代言人",
+  "count": "",
+  "mods": [
+   "你地图中的罪魂可以附身玩家，持续 20 秒\n你地图中的罪魂无法附身怪物"
+  ]
+ },
+ {
+  "slug": "Endless_Tide",
+  "name": "无尽之潮",
+  "count": "",
+  "mods": [
+   "地图中的穿越传送门无法生成传奇首领\n你地图中的穿越传送门的融合范围总降 50%",
+   "（（在生成传奇超越首领后，超越时空之门和超越恶魔将会停止生成））"
+  ]
+ },
+ {
+  "slug": "Arbitrary_Tenets",
+  "name": "专断信条",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Immutable_Dogma",
+  "name": "恒常教条",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Unending_Nightmare",
+  "name": "无尽梦魇",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Timeless_Conflict",
+  "name": "永战无休",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Crop_Rotation",
+  "name": "轮作",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Extreme_Archaeology",
+  "name": "极限考古",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Wrath_of_the_Cosmos",
+  "name": "宇宙之怒",
+  "count": "专精: 焚界者",
+  "mods": [
+   "受焚界者影响的古灵祭坛有 50% 几率获得一个额外的正面效果。",
+   "受焚界者影响的古灵祭坛具有一个额外的正面效果时，负面效果提高 100%"
+  ]
+ },
+ {
+  "slug": "Eldritch_Gaze",
+  "name": "古神凝视",
+  "count": "专精: 灭界者",
+  "mods": [
+   "受灭界者影响的古灵祭坛会有额外的负面效果",
+   "受灭界者影响的古灵祭坛的正面效果的力度提高 50%"
+  ]
+ },
+ {
+  "slug": "Unwavering_Vision",
+  "name": "坚决凝望",
+  "count": "",
+  "mods": [
+   "你的地图无法被碎片修改（神之容器除外）",
+   "你的地图中无法找到圣甲虫",
+   "赋予 20 天赋点数"
+  ]
+ },
+ {
+  "slug": "Dance_of_Destruction",
+  "name": "毁灭之舞",
+  "count": "",
+  "mods": [
+   "你的地图中的怪物造成的伤害总增 25%",
+   "你地图中的怪物生命总降 25%"
+  ]
+ },
+ {
+  "slug": "Wellspring_of_Creation",
+  "name": "创造源泉",
+  "count": "",
+  "mods": [
+   "你的地图中的怪物造成的伤害总降 25%",
+   "你地图中的怪物生命总增 50%"
+  ]
+ },
+ {
+  "slug": "Twist_of_Fate",
+  "name": "扭转命运",
+  "count": "",
+  "mods": [
+   "你的已腐化的稀有地图在打开地图时获得无法预测的修改",
+   "以该方式修改的地图具有 1-3 个额外的随机地图词缀"
+  ]
+ },
+ {
+  "slug": "Contract_Killers",
+  "name": "职业杀手",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "High_Stakes",
+  "name": "高额赌注",
+  "count": "专精: 佣兵",
+  "mods": [
+   "你地图中的佣兵赌注所需金币提高 100%"
+  ]
+ },
+ {
+  "slug": "Civil_War_in_Trarthus",
+  "name": "特拉特斯内战",
+  "count": "",
+  "mods": [
+   "你的地图不会出现佣兵",
+   "你的地图中找到的圣甲虫不会是特拉特斯圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Loot_and_Pillage",
+  "name": "烧杀掳掠",
+  "count": "专精: 佣兵",
+  "mods": [
+   "击败你地图中的佣兵时，有 10% 的几率使其掉落全部物品"
+  ]
+ },
+ {
+  "slug": "Azadi_Supremacy",
+  "name": "阿扎丁霸权",
+  "count": "",
+  "mods": [
+   "你地图中找到的佣兵来自阿扎丁家族的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Cyaxan_Supremacy",
+  "name": "西亚克桑霸权",
+  "count": "",
+  "mods": [
+   "你地图中找到的佣兵来自西亚克桑家族的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Keitan_Supremacy",
+  "name": "柯伊塔霸权",
+  "count": "",
+  "mods": [
+   "你地图中找到的佣兵来自柯伊塔家族的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Education_Cuts",
+  "name": "教育缩水",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Skills_Shortage",
+  "name": "技能短缺",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Absent_Warriors",
+  "name": "缺席战士",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Trarthan_Vapours",
+  "name": "特拉特斯水汽",
+  "count": "专精: 佣兵",
+  "mods": [
+   "你地图中找到的佣兵的冷却回复速度加快 30%",
+   "你地图中找到的佣兵获得猛攻"
+  ]
+ },
+ {
+  "slug": "Faith_in_Arms",
+  "name": "信仰武备",
+  "count": "专精: 佣兵",
+  "mods": [
+   "你地图中找到的佣兵，其技能光环效果提高 30%"
+  ]
+ },
+ {
+  "slug": "Minor_Fiefdoms",
+  "name": "小巧封地",
+  "count": "专精: 佣兵",
+  "mods": [
+   "你的地图有 +30% 的几率驻有佣兵"
+  ]
+ },
+ {
+  "slug": "Mercenary_Chance",
+  "name": "佣兵几率",
+  "count": "专精: 佣兵",
+  "mods": [
+   "你的地图有 +10% 的几率驻有佣兵"
+  ]
+ },
+ {
+  "slug": "Mercenary_Unique_Item_Chance",
+  "name": "佣兵传奇物品几率",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "Mercenary_Additional_Item_Dropped",
+  "name": "佣兵额外物品掉落",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "Mercenary_Additional_Supports_Chance",
+  "name": "佣兵额外辅助几率",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "Infamous_Mercenary_Chance",
+  "name": "恶名佣兵几率",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "Mercenary_Aura_Effect",
+  "name": "佣兵光环效果",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "Mercenary_Cooldown_Recovery",
+  "name": "佣兵冷却回复速度",
+  "count": "专精: 佣兵",
+  "mods": []
+ },
+ {
+  "slug": "Grasp_the_Past",
+  "name": "往昔之握",
+  "count": "专精: 异界回忆",
+  "mods": [
+   "你地图中找到的装备物品的回忆束丝数量有 50% 的几率特别幸运"
+  ]
+ },
+ {
+  "slug": "Traumatic_Experience",
+  "name": "创伤经历",
+  "count": "专精: 异界回忆",
+  "mods": []
+ },
+ {
+  "slug": "Remembered_Kindness",
+  "name": "不忘的和蔼",
+  "count": "专精: 异界回忆",
+  "mods": []
+ },
+ {
+  "slug": "Educated_Upbringing",
+  "name": "文明出身",
+  "count": "专精: 异界回忆",
+  "mods": []
+ },
+ {
+  "slug": "Memory_Tear_Chance",
+  "name": "回忆裂口几率",
+  "count": "专精: 异界回忆",
+  "mods": []
+ },
+ {
+  "slug": "Map_Item_Memory_Influence_Chance",
+  "name": "地图物品回忆影响几率",
+  "count": "专精: 异界回忆",
+  "mods": []
+ },
+ {
+  "slug": "Equipment_Item_Memory_Strands_Chance",
+  "name": "装备物品回忆束丝影响几率",
+  "count": "专精: 异界回忆",
+  "mods": []
+ },
+ {
+  "slug": "Straight_and_Narrow",
+  "name": "中规中矩",
+  "count": "",
+  "mods": [
+   "你的地图不会掉落赏金猎人印记、契约和蓝图",
+   "你的地图不会包含走私者秘藏",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Ominous_Silence",
+  "name": "不祥寂静",
+  "count": "",
+  "mods": [
+   "你的地图不会包含惊悚迷雾之镜",
+   "地图中找到的圣甲虫不会是惊悸迷雾圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Miners_Strike",
+  "name": "矿工罢工",
+  "count": "",
+  "mods": [
+   "你的地图不会包含矿脉",
+   "地图中找到的圣甲虫不会是卡古兰圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Secular_Focus",
+  "name": "世俗焦点",
+  "count": "",
+  "mods": [
+   "你的地图不会包含驱灵祭坛",
+   "地图中找到的圣甲虫不会是仪式圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Fungal_Remission",
+  "name": "菌体缓解",
+  "count": "",
+  "mods": [
+   "你的地图不会包含菌潮遭遇战",
+   "地图中找到的圣甲虫不会是菌潮圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Servant_of_Order",
+  "name": "唯尊秩序",
+  "count": "",
+  "mods": [
+   "地图内不会有致命贪婪遭遇战",
+   "地图中找到的圣甲虫不会是致命贪婪圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Sealed_Domain",
+  "name": "封印领域",
+  "count": "",
+  "mods": [
+   "你的地图不会包含战乱之殇遭遇战",
+   "地图中找到的圣甲虫不会是军团圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Trade_Embargo",
+  "name": "贸易禁运",
+  "count": "",
+  "mods": [
+   "你的地图不会包含先祖秘藏遭遇战",
+   "地图中找到的圣甲虫不会是先祖秘藏圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Dimensional_Barrier",
+  "name": "维度壁垒",
+  "count": "",
+  "mods": [
+   "你的地图不会包含裂隙",
+   "地图中找到的圣甲虫不会是裂隙圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Loved_by_the_Sun",
+  "name": "太阳恩泽",
+  "count": "",
+  "mods": [
+   "你的地图不会包含深渊",
+   "地图中找到的圣甲虫不会是深渊圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Black_Thumb",
+  "name": "寸草不生",
+  "count": "",
+  "mods": [
+   "你的地图不会包含古灵庄园",
+   "地图中找到的圣甲虫不会是庄园圣甲虫",
+   "你的地图包含可通过异界天赋关闭的\n额外内容的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Invasive_Adversaries",
+  "name": "侵略之敌",
+  "count": "专精: 地图",
+  "mods": [
+   "你的地图包含高难度与高奖励怪物的怪物群总增 10%"
+  ]
+ },
+ {
+  "slug": "Mounting_Modifiers",
+  "name": "众词归一",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Multiplying_Modifiers",
+  "name": "倍增词缀",
+  "count": "专精: 地图",
+  "mods": [
+   "每个与地图一同使用的碎片，使你地图的外延词缀效果提高 3%"
+  ]
+ },
+ {
+  "slug": "Map_Pack_Size",
+  "name": "地图怪物群规模",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Map_Rare_Monsters",
+  "name": "地图稀有怪物",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Map_Magic_Monsters",
+  "name": "地图魔法怪物",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Map_Modifier_Effect",
+  "name": "地图词缀效果",
+  "count": "数量: 16",
+  "mods": []
+ },
+ {
+  "slug": "Item_Quantity_and_Rarity",
+  "name": "物品数量和稀有度",
+  "count": "数量: 3",
+  "mods": [
+   "该地图物品数量增加 1%"
+  ]
+ },
+ {
+  "slug": "Map_Drop_Chance",
+  "name": "地图掉落几率",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Scarab_Drop_Chance",
+  "name": "圣甲虫掉落几率",
+  "count": "数量: 50",
+  "mods": []
+ },
+ {
+  "slug": "Item_Rarity",
+  "name": "物品稀有度",
+  "count": "数量: 4",
+  "mods": []
+ },
+ {
+  "slug": "Item_Quantity",
+  "name": "物品数量",
+  "count": "数量: 12",
+  "mods": []
+ },
+ {
+  "slug": "Maven_Witness_Additional_Boss_Chance",
+  "name": "贤主见证额外首领几率",
+  "count": "数量: 4",
+  "mods": []
+ },
+ {
+  "slug": "Maven_Chisel_Chance",
+  "name": "贤主钉几率",
+  "count": "数量: 2",
+  "mods": [
+   "地图中被贤主见证的首领掉落贤主钉的几率提高 15%"
+  ]
+ },
+ {
+  "slug": "The_Most_Toys",
+  "name": "大玩具",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Unimaginable_Horrors",
+  "name": "无相恐惧",
+  "count": "专精: 瓦尔区域",
+  "mods": [
+   "你地图中瓦尔区域的传奇首领造成的伤害总增 30%",
+   "你地图中瓦尔区域的传奇首领的生命总增 100%"
+  ]
+ },
+ {
+  "slug": "Vaal_Side_Area_Chance",
+  "name": "瓦尔区域几率",
+  "count": "专精: 瓦尔区域",
+  "mods": []
+ },
+ {
+  "slug": "For_Love_of_the_Queen",
+  "name": "吾后之爱",
+  "count": "专精: 瓦尔区域",
+  "mods": [
+   "地图内的腐化地图有 25% 的几率是诱人的腐化地图",
+   "你地图中有腐化地图的几率 +6%"
+  ]
+ },
+ {
+  "slug": "Paranormal_Meeting",
+  "name": "神秘集会",
+  "count": "专精: 苦痛",
+  "mods": []
+ },
+ {
+  "slug": "Tormented_Spirit_Duration",
+  "name": "罪魂持续时间",
+  "count": "专精: 苦痛",
+  "mods": []
+ },
+ {
+  "slug": "Tormented_Spirit_Chance",
+  "name": "罪魂几率",
+  "count": "专精: 苦痛",
+  "mods": []
+ },
+ {
+  "slug": "Unrelenting_Torment",
+  "name": "无情折磨",
+  "count": "专精: 苦痛",
+  "mods": [
+   "地图首领有 10% 的几率被罪魂缠身"
+  ]
+ },
+ {
+  "slug": "Seance",
+  "name": "降灵",
+  "count": "专精: 苦痛",
+  "mods": []
+ },
+ {
+  "slug": "Rampant_Growth",
+  "name": "野蛮生长",
+  "count": "专精: 灭界者",
+  "mods": [
+   "古灵溶液若在灭界者影响地图内发现，则有 10% 的几率会复制"
+  ]
+ },
+ {
+  "slug": "Eater_of_Worlds_Influence_Pack_Size",
+  "name": "灭界者怪物影响群规模",
+  "count": "专精: 灭界者",
+  "mods": []
+ },
+ {
+  "slug": "Eater_of_Worlds_Item_Chance",
+  "name": "灭界者物品几率",
+  "count": "数量: 5",
+  "mods": []
+ },
+ {
+  "slug": "The_Shadow_of_Hunger",
+  "name": "猎人之影",
+  "count": "专精: 灭界者",
+  "mods": []
+ },
+ {
+  "slug": "Etched_by_Acid",
+  "name": "酸蚀",
+  "count": "专精: 灭界者",
+  "mods": []
+ },
+ {
+  "slug": "Synthesis_Monster_Pack_Size",
+  "name": "虚空忆境怪物群规模",
+  "count": "专精: 虚空忆境",
+  "mods": []
+ },
+ {
+  "slug": "Vivid_Memories",
+  "name": "生动回忆",
+  "count": "专精: 虚空忆境",
+  "mods": [
+   "每张地图（14 阶以上）的地图最终首领掉落虚空忆境地图的几率 +2%"
+  ]
+ },
+ {
+  "slug": "Vault_of_Mysteries",
+  "name": "神秘宝库",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Concealed_Logistics",
+  "name": "隐秘后勤",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Diviners_Strongbox_Chance",
+  "name": "神圣的秘宝几率",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Cartographers_Strongbox_Chance",
+  "name": "制图师的保险箱几率",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Arcanists_and_Artisans_Strongbox_Chance",
+  "name": "奥术师和工匠的保险箱几率",
+  "count": "专精: 保险箱",
+  "mods": [
+   "你地图中的保险箱为工匠保险箱的几率提高 30%"
+  ]
+ },
+ {
+  "slug": "Backup_Cache",
+  "name": "备用密盒",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Strongbox_Item_Quantity",
+  "name": "保险箱数量",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Secret_Compartments",
+  "name": "秘密暗格",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Strongbox_Chance_to_be_Reopenable_",
+  "name": "保险箱重开几率",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Tamper-Proof",
+  "name": "保险措施",
+  "count": "专精: 保险箱",
+  "mods": [
+   "该地图内的保险箱已被腐化"
+  ]
+ },
+ {
+  "slug": "Strongbox_Additional_Pack_Chance",
+  "name": "保险箱额外群几率",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Twice_Tempted",
+  "name": "双重诱惑",
+  "count": "专精: 保险箱",
+  "mods": []
+ },
+ {
+  "slug": "Altered_Prophecy",
+  "name": "逆转预言",
+  "count": "专精: 命运卡",
+  "mods": []
+ },
+ {
+  "slug": "Divination_Card_Drop_Chance",
+  "name": "命运卡掉落几率",
+  "count": "专精: 命运卡",
+  "mods": []
+ },
+ {
+  "slug": "Amplified_Artefacts",
+  "name": "增幅神器",
+  "count": "专精: 圣甲虫",
+  "mods": []
+ },
+ {
+  "slug": "Skittering_Swarms",
+  "name": "飞掠虫群",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Significant_Troves",
+  "name": "宏伟珍宝库",
+  "count": "专精: 圣甲虫",
+  "mods": []
+ },
+ {
+  "slug": "Chittering_Champions",
+  "name": "啾鸣勇士",
+  "count": "专精: 圣甲虫",
+  "mods": []
+ },
+ {
+  "slug": "Outcasted_Carapaces",
+  "name": "驱逐之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Devoted_Carapaces",
+  "name": "敬奉之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Possessed_Carapaces",
+  "name": "附身之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Crystalline_Carapaces",
+  "name": "结晶之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Tainted_Carapaces",
+  "name": "污秽之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Harrowing_Carapaces",
+  "name": "苦难之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Towering_Carapaces",
+  "name": "高耸之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Trapping_Carapaces",
+  "name": "囚困之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Explorative_Carapaces",
+  "name": "探险之壳",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Remarkable_Relics",
+  "name": "非凡圣物",
+  "count": "专精: 圣甲虫",
+  "mods": []
+ },
+ {
+  "slug": "Flexible_Dogma",
+  "name": "灵活信条",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Answered_Appeals",
+  "name": "回应上诉",
+  "count": "专精: 驱灵仪式",
+  "mods": [
+   "你地图中在驱灵祭坛延时恩典消耗的贡品降低 15%",
+   "你地图中驱灵祭坛上延时的恩典重现速度加快 50%"
+  ]
+ },
+ {
+  "slug": "Increased_Ritual_Intensity",
+  "name": "驱灵凝聚提高",
+  "count": "专精: 驱灵仪式",
+  "mods": [
+   "你地图中驱灵祭坛同时产生的怪物数量提高 20%"
+  ]
+ },
+ {
+  "slug": "Increased_Ritual_Reroll_Cost_and_Free_Rewards_After_Reroll_Chance",
+  "name": "驱灵仪式重置消耗提高和重置后免费奖励几率",
+  "count": "专精: 驱灵仪式",
+  "mods": [
+   "你地图中驱灵祭坛重置的恩典有 0.25% 几率不消耗贡品"
+  ]
+ },
+ {
+  "slug": "Reduced_Ritual_Deferral_Cost",
+  "name": "驱灵延时消耗减少",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Ritual_Chance",
+  "name": "驱灵仪式几率",
+  "count": "专精: 驱灵仪式",
+  "mods": [
+   "地图内有驱灵祭坛的几率 +10%"
+  ]
+ },
+ {
+  "slug": "Reduced_Ritual_Deferral_Time",
+  "name": "驱灵延时时间减少",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Increased_Ritual_Splinters",
+  "name": "驱灵碎片提高",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Sacrificial_Due",
+  "name": "牺牲的理由",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Ritual_Reroll_Cost",
+  "name": "驱灵仪式重置消耗",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Free_Rewards_After_Reroll_Chance",
+  "name": "重置后免费奖励几率",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Profitable_Prayers",
+  "name": "有利可图的祈祷",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Occult_Devotion",
+  "name": "神秘奉献",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Ritual_Tribute_Quantity",
+  "name": "驱灵仪式贡品数量",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Ritual_Special_Reward_Chance",
+  "name": "驱灵仪式特殊奖励几率",
+  "count": "专精: 驱灵仪式",
+  "mods": []
+ },
+ {
+  "slug": "Sacred_Lands",
+  "name": "神圣之地",
+  "count": "专精: 驱灵仪式",
+  "mods": [
+   "地图内有驱灵祭坛的几率 +30%"
+  ]
+ },
+ {
+  "slug": "Survive_The_Assault",
+  "name": "历战不倒",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪遭遇战只有生存挑战\n的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Worthy_of_the_Future",
+  "name": "明日桂冠",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内找到的贪婪战书奖励命运卡的几率提高 50%"
+  ]
+ },
+ {
+  "slug": "Conquer_The_Stones",
+  "name": "顽石霸主",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪遭遇战要求站上符纹\n的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Slaughter_Them_All",
+  "name": "赶尽杀绝",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪遭遇战要求击败多波敌人\n的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Inscribed_Ultimatum_Reward_Chance",
+  "name": "贪婪战书奖励几率",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Ultimatum_Boss_Chance",
+  "name": "致命贪婪首领几率",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Ultimatum_Reduced_Monsters_to_Kill",
+  "name": "致命贪婪击败怪物数量降低",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Worthy_of_the_Present",
+  "name": "现世楷模",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内找到的贪婪战书奖励通货物品的几率提高 50%"
+  ]
+ },
+ {
+  "slug": "Ultimatum_Chance",
+  "name": "致命贪婪几率",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内有致命贪婪遭遇战的几率 +12%"
+  ]
+ },
+ {
+  "slug": "Ultimatum_Survival_Time",
+  "name": "致命贪婪生存时间",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Worthy_of_the_Past",
+  "name": "往昔峥嵘",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内找到的贪婪战书奖励传奇物品的几率提高 50%"
+  ]
+ },
+ {
+  "slug": "Ultimatum_Altar_Life",
+  "name": "致命贪婪祭坛生命",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Prove_Yourself_Worthy",
+  "name": "彰示神威",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪词缀尽可能以高一阶开始"
+  ]
+ },
+ {
+  "slug": "Brave_The_Tower",
+  "name": "勇攀高塔",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "致命试炼首领掉落 10 个随机催化剂"
+  ]
+ },
+ {
+  "slug": "Ultimatum_Stone_Circle_Radius",
+  "name": "致命贪婪符纹范围",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Protect_The_Altar",
+  "name": "拱卫祭坛",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪遭遇战要求保护祭坛\n的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Stand_Your_Ground",
+  "name": "不动如山",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内的致命贪婪遭遇战每轮使范围缩小 3%"
+  ]
+ },
+ {
+  "slug": "Ultimatum_Monster_Quantity",
+  "name": "致命贪婪怪物数量",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Ultimatum_Monster_Experience",
+  "name": "致命贪婪怪物经验值",
+  "count": "专精: 致命贪婪",
+  "mods": []
+ },
+ {
+  "slug": "Face_The_Ultimatum",
+  "name": "贪敛无度",
+  "count": "专精: 致命贪婪",
+  "mods": [
+   "地图内有致命贪婪遭遇战的几率 +30%"
+  ]
+ },
+ {
+  "slug": "Higher_Map_Tier_Chance",
+  "name": "更高地图位阶几率",
+  "count": "专精: 地图",
+  "mods": []
+ },
+ {
+  "slug": "Shaping_the_World",
+  "name": "塑造世界",
+  "count": "专精: 地图",
+  "mods": [
+   "每张地图的最终地图首领有 5% 几率掉落一个额外的等级更高的地图"
+  ]
+ },
+ {
+  "slug": "Shaping_the_Skies",
+  "name": "塑造天空",
+  "count": "专精: 地图",
+  "mods": [
+   "你地图内的魔法怪物数量提高 10%"
+  ]
+ },
+ {
+  "slug": "Shaping_the_Mountains",
+  "name": "塑造山脉",
+  "count": "专精: 地图",
+  "mods": [
+   "你地图内的稀有怪物数量提高 10%"
+  ]
+ },
+ {
+  "slug": "Logistical_Support",
+  "name": "后勤保障",
+  "count": "专精: 军团",
+  "mods": [
+   "你地图中具有奖励的军团怪物有 10% 几率获得两个额外的奖励，没有奖励的则有 20% 几率获得一个额外的奖励"
+  ]
+ },
+ {
+  "slug": "Pillaged_Treasures",
+  "name": "遭劫的宝藏",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Emblematic",
+  "name": "典型",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Legion_Monolith_Chance",
+  "name": "军团石碑几率",
+  "count": "专精: 军团",
+  "mods": [
+   "地图内有战乱之殇遭遇战的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Legion_Sergeant_Reward_Chance",
+  "name": "军团中士奖励几率",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Legion_Chest_Break_Out_Range",
+  "name": "军团宝箱破出范围",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Legion_General_Splinter_Amount",
+  "name": "军团将军碎片数量",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Legion_Sergeant_Reward_Chance_and_Duration",
+  "name": "军团中士奖励几率和持续时间",
+  "count": "专精: 军团",
+  "mods": [
+   "地图内的战乱之殇遭遇战持续时间提高 10%"
+  ]
+ },
+ {
+  "slug": "War_Supplies",
+  "name": "战争补给",
+  "count": "专精: 军团",
+  "mods": [
+   "地图内每个战乱之殇军势都有一个战争秘术箱"
+  ]
+ },
+ {
+  "slug": "Face_Off",
+  "name": "变脸",
+  "count": "专精: 军团",
+  "mods": [
+   "你地图中的战乱之殇遭遇战包含将军的几率提高 60%",
+   "地图内有将军的战乱之殇遭遇战有两个将军"
+  ]
+ },
+ {
+  "slug": "Legion_General_Chance",
+  "name": "军团将军几率",
+  "count": "专精: 军团",
+  "mods": [
+   "你地图中的战乱之殇遭遇战包含将军的几率提高 20%"
+  ]
+ },
+ {
+  "slug": "Legion_Duplicate_Splinter_Chance",
+  "name": "战乱之殇复制裂片几率",
+  "count": "数量: 2",
+  "mods": []
+ },
+ {
+  "slug": "Constant_Battle",
+  "name": "持久战",
+  "count": "专精: 军团",
+  "mods": [
+   "地图内有战乱之殇遭遇战的几率 +16%"
+  ]
+ },
+ {
+  "slug": "Maraketh_Legion_Chance",
+  "name": "马拉克斯军团几率",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Templar_Legion_Chance",
+  "name": "圣堂武僧军团几率",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Vaal_Legion_Chance",
+  "name": "瓦尔军团几率",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Eternal_Legion_Chance",
+  "name": "永恒军团几率",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Karui_Legion_Chance",
+  "name": "卡鲁军团几率",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Protracted_Battle",
+  "name": "旷日持久",
+  "count": "专精: 军团",
+  "mods": [
+   "地图内的战乱之殇遭遇战持续时间提高 40%",
+   "地图内的战乱之殇怪物静滞时受到的伤害提高 50%"
+  ]
+ },
+ {
+  "slug": "Chain_of_Command",
+  "name": "律令之链",
+  "count": "专精: 军团",
+  "mods": [
+   "你地图中的军团遭遇战包含2名额外的中士"
+  ]
+ },
+ {
+  "slug": "Legion_Duration",
+  "name": "战乱之殇持续时间",
+  "count": "专精: 军团",
+  "mods": []
+ },
+ {
+  "slug": "Monumental",
+  "name": "铭记",
+  "count": "专精: 军团",
+  "mods": [
+   "地图内有战乱之殇遭遇战的几率 +16%"
+  ]
+ },
+ {
+  "slug": "Labyrinth_Trial_Chance",
+  "name": "帝王迷宫试炼几率",
+  "count": "专精: 试炼迷宫",
+  "mods": []
+ },
+ {
+  "slug": "Trial_of_Glory",
+  "name": "荣耀试炼",
+  "count": "专精: 试炼迷宫",
+  "mods": [
+   "地图内帝王迷宫试炼有 25% 的几率奖励一份改良的女神祭品"
+  ]
+ },
+ {
+  "slug": "Pillage_and_Plunder",
+  "name": "巧取豪夺",
+  "count": "专精: 背叛者",
+  "mods": [
+   "你在地图中击败的辛迪加成员掉落的加密物品有 5% 的几率具有一个分裂加密词缀"
+  ]
+ },
+ {
+  "slug": "Betrayal_Chance",
+  "name": "背叛几率",
+  "count": "专精: 背叛者",
+  "mods": [
+   "你的地图包含琼的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Obsessed_with_Vengeance",
+  "name": "复仇蔽心",
+  "count": "专精: 背叛者",
+  "mods": [
+   "你的地图包含琼的几率 +20%"
+  ]
+ },
+ {
+  "slug": "Lethal_Extraction",
+  "name": "致命套取",
+  "count": "专精: 背叛者",
+  "mods": []
+ },
+ {
+  "slug": "Betrayal_Syndicate_Reinforcement_Chance",
+  "name": "背叛者辛迪加援军几率",
+  "count": "专精: 背叛者",
+  "mods": []
+ },
+ {
+  "slug": "Test_of_Loyalty",
+  "name": "忠诚之试",
+  "count": "专精: 背叛者",
+  "mods": []
+ },
+ {
+  "slug": "Bribery",
+  "name": "贿赂",
+  "count": "专精: 背叛者",
+  "mods": [
+   "在地图内跟不朽辛迪加成员\n谈判物品的几率总增 200%"
+  ]
+ },
+ {
+  "slug": "Betrayal_Veiled_Item_Chance",
+  "name": "背叛者加密物品几率",
+  "count": "专精: 背叛者",
+  "mods": []
+ },
+ {
+  "slug": "Effective_Leadership",
+  "name": "有效领导",
+  "count": "专精: 背叛者",
+  "mods": [
+   "地图内不朽辛迪加成员有首领相伴的几率总增 100%"
+  ]
+ },
+ {
+  "slug": "Friends_in_High_Places",
+  "name": "高层朋友",
+  "count": "专精: 夺宝奇兵",
+  "mods": [
+   "你地图中可找到的夺宝奇兵契约指定高价值目标的可能性总增 80%"
+  ]
+ },
+ {
+  "slug": "The_Dutiful_Soldier",
+  "name": "尽职士兵",
+  "count": "专精: 夺宝奇兵",
+  "mods": [
+   "你的地图中找到的蓝图有 15% 的几率带有特殊基底属性"
+  ]
+ },
+ {
+  "slug": "Heist_Blueprint_Chance",
+  "name": "夺宝蓝图几率",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "Heist_Smugglers_Cache_Chance",
+  "name": "夺宝奇兵走私者秘藏几率",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "Additional_Smugglers_Cache_Chance",
+  "name": "额外走私者秘藏几率",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "No_Honour_Among_Thieves",
+  "name": "盗贼没有荣誉可言",
+  "count": "专精: 夺宝奇兵",
+  "mods": [
+   "地图中每有一个走私者秘藏被打开，你地图中走私者秘藏包含蓝图的几率提高 10%",
+   "区域内每有一个走私者秘藏被打开，走私者秘藏掉落的赏金猎人印记总增 10%"
+  ]
+ },
+ {
+  "slug": "Heist_Contract_Agility,_Deception_and_Engineering_Chance",
+  "name": "夺宝奇兵灵敏、欺诈和工程学几率",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "Casing_the_Joint",
+  "name": "追逐壮兽",
+  "count": "专精: 夺宝奇兵",
+  "mods": [
+   "地图内走私者秘藏掉落的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Heist_Contract_Demolition,_Counter-Thaumaturgy_and_Trap_Disarmament_Chance",
+  "name": "夺宝奇兵爆破、逆向奇术和解除陷阱几率",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "Heist_Contract_Lockpicking,_Brute_Force_and_Perception_Chance",
+  "name": "夺宝奇兵解密术、凶蛮之力和洞察几率",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "Secret_Stash",
+  "name": "隐秘仓库",
+  "count": "专精: 夺宝奇兵",
+  "mods": []
+ },
+ {
+  "slug": "Primal_Drought",
+  "name": "原始干旱",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Wild_Drought",
+  "name": "野性干旱",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Vivid_Drought",
+  "name": "活性干旱",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Doubling_Season",
+  "name": "双倍季节",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Harvest_non-Purple_Plant_Chance",
+  "name": "庄园非紫色植物几率",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Harvest_Chance",
+  "name": "庄园几率",
+  "count": "专精: 古灵庄园",
+  "mods": [
+   "你的地图有+10%几率包含古灵庄园"
+  ]
+ },
+ {
+  "slug": "Additional_Lifeforce_from_Harvest",
+  "name": "来自庄园其他命能",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Harvest_non-Blue_Plant_Chance",
+  "name": "庄园非蓝色植物几率",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Harvest_non-Yellow_Plant_Chance",
+  "name": "庄园非黄色植物几率",
+  "count": "数量: 2",
+  "mods": []
+ },
+ {
+  "slug": "Harvest_Monster_Duplication_Chance",
+  "name": "庄园怪物复制几率",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Bumper_Crop",
+  "name": "大丰收",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Harvest_Tier_3_Plant_Chance",
+  "name": "庄园3阶植物几率",
+  "count": "专精: 古灵庄园",
+  "mods": []
+ },
+ {
+  "slug": "Heart_of_the_Grove",
+  "name": "古灵庄园之心",
+  "count": "专精: 古灵庄园",
+  "mods": [
+   "地图内的古灵庄园庄稼有 4 阶作物的几率提高 60%"
+  ]
+ },
+ {
+  "slug": "Bountiful_Harvest",
+  "name": "硕果累累",
+  "count": "专精: 古灵庄园",
+  "mods": [
+   "在地图内收割怪物提供的经验值提高 200%"
+  ]
+ },
+ {
+  "slug": "Call_of_the_Grove",
+  "name": "庄园的呼唤",
+  "count": "专精: 古灵庄园",
+  "mods": [
+   "你的地图有+30%几率包含古灵庄园"
+  ]
+ },
+ {
+  "slug": "Lucky_Guess",
+  "name": "猜得挺准",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Rather_Not",
+  "name": "宁愿没有",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Ancient_Decay",
+  "name": "上古腐坏",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "A_Noble_Quest",
+  "name": "崇高的任务",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Scratchin_up_the_Ground",
+  "name": "搜刮地面",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Expedition_Vendor_Reroll_Currency_Chance",
+  "name": "先祖秘藏商人重掷通货几率",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Expedition_Artifact_Quantity",
+  "name": "先祖秘藏神器数量",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Expedition_Slower_Detonation_Chain_Speed",
+  "name": "先祖秘藏更慢的爆破链速度",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Expedition_Faster_Detonation_Chain_Speed",
+  "name": "先祖秘藏更快的爆破链速度",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Expedition_Chance",
+  "name": "先祖秘藏几率",
+  "count": "专精: 先祖秘藏",
+  "mods": [
+   "你的地图有+8%几率包含一场先祖秘藏遭遇战"
+  ]
+ },
+ {
+  "slug": "Buried_Knowledge",
+  "name": "尘封古识",
+  "count": "专精: 先祖秘藏",
+  "mods": [
+   "地图内符纹怪物掉落的先祖秘藏日志数量提高 50%"
+  ]
+ },
+ {
+  "slug": "Explosive_Placement_Distance",
+  "name": "爆破放置距离",
+  "count": "专精: 先祖秘藏",
+  "mods": []
+ },
+ {
+  "slug": "Ancient_Writings",
+  "name": "远古抄本",
+  "count": "专精: 先祖秘藏",
+  "mods": [
+   "地图内的残骸有 30% 的几率额外有一个后缀"
+  ]
+ },
+ {
+  "slug": "Distinguished_Demolitionist",
+  "name": "爆破专家",
+  "count": "专精: 先祖秘藏",
+  "mods": [
+   "地图内的爆炸范围扩大 35%"
+  ]
+ },
+ {
+  "slug": "Hunt_for_Answers",
+  "name": "追寻到底",
+  "count": "专精: 先祖秘藏",
+  "mods": [
+   "你的地图有+20%几率包含一场先祖秘藏遭遇战"
+  ]
+ },
+ {
+  "slug": "Crystal_Lattice",
+  "name": "水晶格",
+  "count": "专精: 精华",
+  "mods": []
+ },
+ {
+  "slug": "Imprisoned_Monster_Additional_Essence_Chance",
+  "name": "禁锢怪物额外精华几率",
+  "count": "专精: 精华",
+  "mods": []
+ },
+ {
+  "slug": "Crystal_Resonance",
+  "name": "水晶共振",
+  "count": "专精: 精华",
+  "mods": [
+   "地图首领会获得你在地图中击败的任意禁锢怪物的 1 个随机精华词缀"
+  ]
+ },
+ {
+  "slug": "Essence_Chance",
+  "name": "精华几率",
+  "count": "专精: 精华",
+  "mods": []
+ },
+ {
+  "slug": "Amplified_Energies",
+  "name": "增幅活力",
+  "count": "专精: 精华",
+  "mods": [
+   "你的地图中的禁锢怪物至少有 1 个精华尽可能为最高等级"
+  ]
+ },
+ {
+  "slug": "Essence_Rare_Chance",
+  "name": "精华稀有几率",
+  "count": "专精: 精华",
+  "mods": []
+ },
+ {
+  "slug": "Prolific_Essence",
+  "name": "高产精华",
+  "count": "专精: 精华",
+  "mods": []
+ },
+ {
+  "slug": "Shaper_Influenced_Pack_Size",
+  "name": "受塑界者影响的怪物群规模",
+  "count": "专精: 塑界者和裂界者",
+  "mods": []
+ },
+ {
+  "slug": "Elder_Influenced_Pack_Size",
+  "name": "受裂界者影响的怪物群规模",
+  "count": "专精: 塑界者和裂界者",
+  "mods": []
+ },
+ {
+  "slug": "Remnants_of_the_Past",
+  "name": "往日遗骸",
+  "count": "专精: 塑界者和裂界者",
+  "mods": [
+   "每张地图的最终地图首领有+3%几率掉落一个裂界守卫地图（14阶以上）",
+   "每张地图的最终地图首领有+3%几率掉落一张塑界守卫地图（14阶以上）",
+   "（（14+ 阶地图的最终首领有 3% 的基础几率掉落一个裂界守卫地图））"
+  ]
+ },
+ {
+  "slug": "Domination_Shrine_Chance",
+  "name": "支配神龛持续时间",
+  "count": "专精: 圣坛",
+  "mods": []
+ },
+ {
+  "slug": "All_That_Glitters",
+  "name": "火炼真金",
+  "count": "专精: 圣坛",
+  "mods": [
+   "地图内的神龛有 10% 的几率是贪婪神龛"
+  ]
+ },
+ {
+  "slug": "Syncretism",
+  "name": "汇聚",
+  "count": "专精: 圣坛",
+  "mods": [
+   "你地图中的神龛为玩家提供的神龛增益状态效果提高 30%"
+  ]
+ },
+ {
+  "slug": "Domination_Shrine_Effect",
+  "name": "支配神龛持续时间",
+  "count": "专精: 圣坛",
+  "mods": []
+ },
+ {
+  "slug": "Drawn_to_Power",
+  "name": "力量沉溺",
+  "count": "专精: 圣坛",
+  "mods": [
+   "地图内的神龛有 50% 的几率有一群额外怪物保卫"
+  ]
+ },
+ {
+  "slug": "Domination_Shrine_Duration",
+  "name": "支配神龛持续时间",
+  "count": "专精: 圣坛",
+  "mods": []
+ },
+ {
+  "slug": "Supplication",
+  "name": "祈求",
+  "count": "专精: 圣坛",
+  "mods": []
+ },
+ {
+  "slug": "The_Price_of_Progress",
+  "name": "掘进的代价",
+  "count": "专精: 地心",
+  "mods": []
+ },
+ {
+  "slug": "Delve_Chance",
+  "name": "地心探险几率",
+  "count": "专精: 地心",
+  "mods": [
+   "你的地图包含尼克的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Frantic_Mining",
+  "name": "狂热采掘",
+  "count": "专精: 地心",
+  "mods": [
+   "你的地图包含尼克的几率 +20%"
+  ]
+ },
+ {
+  "slug": "Delve_Sulphite_Quantity",
+  "name": "地心探险亚硫酸数量",
+  "count": "专精: 地心",
+  "mods": []
+ },
+ {
+  "slug": "Mining_Byproducts",
+  "name": "采矿副产",
+  "count": "专精: 地心",
+  "mods": []
+ },
+ {
+  "slug": "Sulphite_Infusion",
+  "name": "亚硫酸灌注",
+  "count": "专精: 地心",
+  "mods": [
+   "你的白色等阶地图完成时额外提供400个魔暴亚硫酸",
+   "你的黄色等阶地图完成时额外提供700个魔暴亚硫酸"
+  ]
+ },
+ {
+  "slug": "Packed_with_Energy",
+  "name": "能量汇聚",
+  "count": "专精: 地心",
+  "mods": [
+   "与地图内的魔暴亚硫酸矿脉或箱子互动时，每发现一个魔暴亚硫酸矿脉或箱子便获得亚硫酸中毒",
+   "map additional maximum all elemental resistances % per sulphite vein mined [1]",
+   "map movement velocity +% per sulphite vein mined [15]"
+  ]
+ },
+ {
+  "slug": "Guarded_Hoards",
+  "name": "禁中之珍",
+  "count": "专精: 地心",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Chance",
+  "name": "惊悸迷雾几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "地图内有惊悸迷雾之镜的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Paranoid_Fixation",
+  "name": "多疑的固执",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "你地图中亢奋传奇怪物有 2% 几率会掉落一个额外的星团珠宝"
+  ]
+ },
+ {
+  "slug": "Imagined_Pursuits",
+  "name": "幻想的事业",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Screaming_Whispers",
+  "name": "尖叫低语",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Reward_Progress",
+  "name": "惊悸迷雾奖励进度",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Additional_Splinters",
+  "name": "惊悸迷雾额外碎片",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Reward_Progress_and_Additional_Splinters",
+  "name": "惊悸迷雾奖励进度和额外碎片",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "你地图中击杀亢奋怪物提供的奖励进度提高 5%"
+  ]
+ },
+ {
+  "slug": "Cluster_Jewel_Chance",
+  "name": "星团珠宝几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Orb_Reward_Chance_and_Cluster_Jewel_Chance",
+  "name": "雾魇宝珠奖励几率和星团珠宝几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "你地图中惊悸迷雾奖励给予雾魇宝珠的几率提高 5%"
+  ]
+ },
+ {
+  "slug": "Delirium_Orb_Reward_Chance",
+  "name": "雾魇宝珠奖励几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delusions_of_Persecution",
+  "name": "受害妄想",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "地图内的惊悸迷雾遭遇战产生传奇首领的几率总增 100%",
+   "地图内惊悸迷雾首领掉落的梦魇拟像裂片提高 50%"
+  ]
+ },
+ {
+  "slug": "Delirium_Boss_Chance",
+  "name": "惊悸迷雾首领几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Compulsive_Hoarder",
+  "name": "无尽贪欲",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Additional_Delirium_Reward_Chance",
+  "name": "额外惊悸迷雾奖励几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Boss_Chance_and_Additional_Delirium_Reward_Chance",
+  "name": "惊悸迷雾首领和额外惊悸迷雾奖励几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "地图内的惊悸迷雾遭遇战产生传奇首领的几率总增 8%"
+  ]
+ },
+ {
+  "slug": "Pathological",
+  "name": "毫无理智",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirious_Map_Chance",
+  "name": "亢奋地图几率",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Fog_Dissipation_Delay",
+  "name": "惊悸迷雾消散延迟",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Persistence",
+  "name": "惊悸迷雾持续性",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "Delirium_Difficulty",
+  "name": "惊悸迷雾难度",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "The_Singular_Eternity",
+  "name": "仅有的永恒",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "地图内的惊悸迷雾消散减慢 25%"
+  ]
+ },
+ {
+  "slug": "Descent_Into_Madness",
+  "name": "坠入疯狂",
+  "count": "专精: 惊悸迷雾",
+  "mods": []
+ },
+ {
+  "slug": "That_Which_You_Seek",
+  "name": "毕生所求",
+  "count": "专精: 惊悸迷雾",
+  "mods": [
+   "地图内有惊悸迷雾之镜的几率 +24%"
+  ]
+ },
+ {
+  "slug": "Conqueror_Influenced_Pack_Size",
+  "name": "受征服者影响的怪物群规模",
+  "count": "专精: 征服者",
+  "mods": []
+ },
+ {
+  "slug": "Conquered_Conquerors",
+  "name": "征服征服者",
+  "count": "专精: 征服者",
+  "mods": [
+   "地图首领掉落征服者地图的几率提高 100%",
+   "（（异界征服者有圣战者巴兰、救赎者维利塔妮娅、狩猎者阿尔赫兹敏、督军狄洛克斯））"
+  ]
+ },
+ {
+  "slug": "Word_of_the_Exarch",
+  "name": "总督御令",
+  "count": "专精: 焚界者",
+  "mods": [
+   "古灵余烬若在焚界者影响地图内发现，则有 10% 的几率会复制"
+  ]
+ },
+ {
+  "slug": "Searing_Exarch_Influence_Pack_Size",
+  "name": "焚界者影响群规模",
+  "count": "专精: 焚界者",
+  "mods": []
+ },
+ {
+  "slug": "Searing_Exarch_Item_Chance",
+  "name": "焚界者物品几率",
+  "count": "数量: 5",
+  "mods": []
+ },
+ {
+  "slug": "The_Light_of_Dawn",
+  "name": "黎明之光",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Baptised_by_Fire",
+  "name": "火焰洗礼",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Fortified_Dominance",
+  "name": "固若金汤",
+  "count": "专精: 裂隙",
+  "mods": [
+   "你地图中的裂隙巢穴通往堡垒的几率提高 40%"
+  ]
+ },
+ {
+  "slug": "Additional_Unstable_Breach_Chance",
+  "name": "额外的不稳定裂隙几率",
+  "count": "数量: 4",
+  "mods": []
+ },
+ {
+  "slug": "Breach_Chance",
+  "name": "裂隙几率",
+  "count": "专精: 裂隙",
+  "mods": [
+   "地图内有裂隙的几率 +10%"
+  ]
+ },
+ {
+  "slug": "Lavish_Wombgift_Chance",
+  "name": "丰裕孕育赠礼几率",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Breach_Rare_Monster_Chance",
+  "name": "裂隙稀有怪物几率",
+  "count": "数量: 4",
+  "mods": []
+ },
+ {
+  "slug": "Breach_Hiveblood_Quantity",
+  "name": "裂隙虫巢之血数量",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Mysterious_Wombgift_Chance",
+  "name": "神秘孕育赠礼几率",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Ancient_Wombgift_Chance",
+  "name": "远古孕育赠礼几率",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Breach_Wombgift_Quantity",
+  "name": "裂隙孕育赠礼数量",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Ailith_Skill_Damage",
+  "name": "艾莉丝技能伤害",
+  "count": "数量: 2",
+  "mods": []
+ },
+ {
+  "slug": "Breach_Flammable_Burrows",
+  "name": "裂隙易燃地穴",
+  "count": "数量: 4",
+  "mods": []
+ },
+ {
+  "slug": "Protracted_Siege",
+  "name": "围城鏖战",
+  "count": "",
+  "mods": [
+   "在你地图中未通往堡垒的裂隙巢穴内\n艾利丝创造的技能数量提高 100%"
+  ]
+ },
+ {
+  "slug": "Clawed_Open",
+  "name": "利爪撕裂",
+  "count": "",
+  "mods": [
+   "你地图中的不稳定裂隙在计时器填满后，会额外延迟 6 秒塌缩"
+  ]
+ },
+ {
+  "slug": "Swelling_Ranks",
+  "name": "增援阵列",
+  "count": "专精: 裂隙",
+  "mods": [
+   "你地图中的裂隙怪物的怪物群规模提高 10%"
+  ]
+ },
+ {
+  "slug": "Massing_Forces",
+  "name": "大军集结",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Adaptive_Reaction",
+  "name": "自适反应",
+  "count": "专精: 裂隙",
+  "mods": [
+   "你地图中的易燃地穴的爆炸范围提高 100%",
+   "每摧毁一个易燃地穴，你地图中的巢穴怪物韧性提高 4%",
+   "每摧毁一个易燃地穴，你地图中的巢穴遭遇战提供的虫巢之血\n和孕育之礼提高 2%"
+  ]
+ },
+ {
+  "slug": "Evolving_Hives",
+  "name": "进化虫巢",
+  "count": "专精: 裂隙",
+  "mods": [
+   "地图内裂隙产生的魔法怪物提高 15%"
+  ]
+ },
+ {
+  "slug": "Violent_Skirmish",
+  "name": "狂暴缠斗",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Breach_Magic_Monsters_and_Chance",
+  "name": "裂隙魔法怪物和几率",
+  "count": "专精: 裂隙",
+  "mods": [
+   "地图内裂隙产生的魔法怪物提高 6%",
+   "地图内有裂隙的几率 +3%"
+  ]
+ },
+ {
+  "slug": "Provisioning_Wombgift_Chance",
+  "name": "供养孕育赠礼几率",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Fecund_Colony",
+  "name": "丰饶之巢",
+  "count": "专精: 裂隙",
+  "mods": [
+   "你地图中的裂隙首领有 50% 的几率额外掉落一个孕育之礼"
+  ]
+ },
+ {
+  "slug": "Breach_Magic_Monster_Chance",
+  "name": "裂隙魔法怪物几率",
+  "count": "专精: 裂隙",
+  "mods": []
+ },
+ {
+  "slug": "Broken_Border",
+  "name": "破碎边界",
+  "count": "专精: 裂隙",
+  "mods": [
+   "地图内有裂隙的几率 +20%"
+  ]
+ },
+ {
+  "slug": "Fungal_Bloom",
+  "name": "真菌绽放",
+  "count": "专精: 菌潮",
+  "mods": [
+   "地图内有菌潮遭遇战的几率 +40%"
+  ]
+ },
+ {
+  "slug": "Sturdy_Construction",
+  "name": "结实的建设",
+  "count": "专精: 菌潮",
+  "mods": [
+   "你地图中菌潮怪物受到的伤害提高 12%"
+  ]
+ },
+ {
+  "slug": "Blight_Encounter_Chance",
+  "name": "菌潮遭遇战几率",
+  "count": "专精: 菌潮",
+  "mods": [
+   "地图内有菌潮遭遇战的几率 +12%"
+  ]
+ },
+ {
+  "slug": "Blight_Tower_Cost",
+  "name": "菌潮防御塔消耗",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Lucky_Blight_Chests",
+  "name": "幸运菌潮宝箱",
+  "count": "专精: 菌潮",
+  "mods": [
+   "菌潮宝箱有 8% 的几率有一个额外奖励"
+  ]
+ },
+ {
+  "slug": "Blight_Monster_Increased_Damage_Taken",
+  "name": "菌潮怪物受到的伤害提高",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Immune_Response",
+  "name": "回荡免疫",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Blight_Boss_Additional_Reward",
+  "name": "菌潮首领额外奖励",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Blight_Monster_Item_Quantity",
+  "name": "菌潮怪物物品数量",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Blightspawn",
+  "name": "菌潮集群",
+  "count": "专精: 菌潮",
+  "mods": [
+   "你地图中的菌潮首领有 10% 几率为其菌潮通道额外添加一个奖励宝箱"
+  ]
+ },
+ {
+  "slug": "Templar_Ingenuity",
+  "name": "圣堂奇才",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Blighted_Map_Reward_Chance",
+  "name": "菌潮地图奖励几率",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Fungal_Horizons",
+  "name": "真菌视界",
+  "count": "专精: 菌潮",
+  "mods": [
+   "地图内的菌潮宝箱具有菌潮地图的几率总增 60%",
+   "完成地图中的菌潮遭遇战会使所有玩家获得菌潮之触"
+  ]
+ },
+ {
+  "slug": "Epidemiology",
+  "name": "流行病学",
+  "count": "专精: 菌潮",
+  "mods": [
+   "地图内 3 个菌潮宝箱里的各种物品都有幸运属性"
+  ]
+ },
+ {
+  "slug": "Additional_Blight_Chest_Chance",
+  "name": "额外的菌潮宝箱几率",
+  "count": "专精: 菌潮",
+  "mods": []
+ },
+ {
+  "slug": "Blight_Chest_Chance_and_Lucky_Chests",
+  "name": "菌潮宝箱几率和幸运宝箱",
+  "count": "专精: 菌潮",
+  "mods": [
+   "地图内 1 个菌潮宝箱里的各种物品都有幸运属性"
+  ]
+ },
+ {
+  "slug": "Demonic_Power",
+  "name": "魔化之力",
+  "count": "专精: 超越",
+  "mods": [
+   "在你的地图中击败超越首领时获得魔化之力"
+  ]
+ },
+ {
+  "slug": "Beyond_Chance",
+  "name": "超越几率",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "KTash_Follower_Chance",
+  "name": "科塔席追随者几率",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "Beidat_Follower_Chance",
+  "name": "贝达特追随者几率",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "Ghorr_Follower_Chance",
+  "name": "咕尔追随者几率",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "Voracious_Throng",
+  "name": "贪欲之群",
+  "count": "专精: 超越",
+  "mods": [
+   "你地图中的超越恶魔追随咕尔的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Pale_Clarion",
+  "name": "苍白呼号",
+  "count": "专精: 超越",
+  "mods": [
+   "你地图中的超越恶魔追随贝达特的几率提高 100%",
+   "从你地图中追随贝达特的超越恶魔处\n获得的基础通货物品总增 30%"
+  ]
+ },
+ {
+  "slug": "Swarming_Hive",
+  "name": "集群虫巢",
+  "count": "专精: 超越",
+  "mods": [
+   "你地图中的超越恶魔追随科塔席的几率提高 100%"
+  ]
+ },
+ {
+  "slug": "Fiendish_Opulence",
+  "name": "恶魔的财宝",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "Beyond_Portal_Merging_Radius",
+  "name": "超越时空之门融合范围",
+  "count": "专精: 超越",
+  "mods": [
+   "地图内超越传送门的融合范围扩大 8%"
+  ]
+ },
+ {
+  "slug": "Torn_Veil",
+  "name": "帷幕破碎",
+  "count": "专精: 超越",
+  "mods": [
+   "你的地图中的超越传送门生成传奇首领的几率提高30%。"
+  ]
+ },
+ {
+  "slug": "Beyond_Portal_Chance",
+  "name": "超越时空之门几率",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "Scent_of_Blood",
+  "name": "血之香",
+  "count": "专精: 超越",
+  "mods": []
+ },
+ {
+  "slug": "Prospectors_Luck",
+  "name": "探勘者的好运",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "地图内有矿脉的几率 +20%"
+  ]
+ },
+ {
+  "slug": "Increased_Ore_Found",
+  "name": "矿石数量提高",
+  "count": "专精: 君锋城下",
+  "mods": []
+ },
+ {
+  "slug": "Ore_Deposit_Chance",
+  "name": "矿脉几率",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "地图内有矿脉的几率 +12%"
+  ]
+ },
+ {
+  "slug": "Lost_in_Transit",
+  "name": "运输短失",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "你地图中的矿脉有 6% 的几率被替换为失落的货物"
+  ]
+ },
+ {
+  "slug": "Verisium_Infusion",
+  "name": "维金灌注",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "你地图中的维金矿脉的可吟唱时间延长 30%"
+  ]
+ },
+ {
+  "slug": "Amber_Infusion",
+  "name": "琥珀灌注",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "你地图中石化琥珀矿脉受到的伤害降低 25%"
+  ]
+ },
+ {
+  "slug": "Orichalcum_Infusion",
+  "name": "奥利哈刚灌注",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "你地图中的奥利哈刚矿脉提供的增益持续时间延长 100%"
+  ]
+ },
+ {
+  "slug": "Crimson_Infusion",
+  "name": "绯红灌注",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "你地图中的绯红铁矿矿脉被 2 个额外的腐化增生守卫"
+  ]
+ },
+ {
+  "slug": "Bismuth_Infusion",
+  "name": "铋矿灌注",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "你地图中的铋矿矿脉有 30% 的几率\n为受其影响的怪物额外增加一个词缀"
+  ]
+ },
+ {
+  "slug": "Increased_Ore_Found_and_Ore_Deposit_Chance",
+  "name": "矿石数量和矿脉几率提高",
+  "count": "专精: 君锋城下",
+  "mods": [
+   "地图内有矿脉的几率 +5%",
+   "你地图中的矿脉含有的矿石数量提高 5%"
+  ]
+ },
+ {
+  "slug": "Yield_Upon_Yield",
+  "name": "节节高产",
+  "count": "专精: 君锋城下",
+  "mods": []
+ },
+ {
+  "slug": "Fortunes_Favour",
+  "name": "幸运眷顾",
+  "count": "专精: 君锋城下",
+  "mods": []
+ },
+ {
+  "slug": "Refiners_Bargain",
+  "name": "精炼师的交易",
+  "count": "",
+  "mods": [
+   "你地图中被附身的怪物掉落的具有稀有度的装备物品有 5% 的几率被转化为奇术之尘",
+   "你地图中找到的亚硫酸改为提供 10% 数量的随机矿石"
+  ]
+ },
+ {
+  "slug": "Deadly_Prey",
+  "name": "致命猎物",
+  "count": "专精: 猎魔",
+  "mods": [
+   "你地图中可捕获的野兽拥有野兽狂怒\n击败可捕获的野兽会提供一层猎人狡诈",
+   "（（猎手之诈使你受到魔物的伤害降低，提高对魔物造成的伤害，并且提高被击败的魔物的物品数量和物品稀有度））"
+  ]
+ },
+ {
+  "slug": "Bestiary_Chance",
+  "name": "猎魔几率",
+  "count": "专精: 猎魔",
+  "mods": [
+   "你的地图包含伊恩哈尔的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Eternal_Hunt",
+  "name": "永恒逐猎",
+  "count": "专精: 猎魔",
+  "mods": [
+   "你的地图包含伊恩哈尔的几率 +20%"
+  ]
+ },
+ {
+  "slug": "Big_Game",
+  "name": "豪赌",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "Mighty_Hunter",
+  "name": "强力猎人",
+  "count": "专精: 猎魔",
+  "mods": [
+   "伊恩哈尔在地图内的冷却回复率提高 100%",
+   "伊恩哈尔在地图内对传奇怪物的伤害总增 1000%"
+  ]
+ },
+ {
+  "slug": "Bestiary_Red_Beast_Pair_Chance",
+  "name": "猎魔红野兽成对几率",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "Bestiary_Red_Beast_Chance",
+  "name": "猎魔红野兽几率",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "Natural_Selection",
+  "name": "自然选择",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "The_Hunt_for_Saqawal",
+  "name": "苍空猎杀",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "The_Hunt_for_Fenumus",
+  "name": "法瑞尔猎杀",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "The_Hunt_for_Farrul",
+  "name": "法瑞尔猎杀",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "The_Hunt_for_Craiceann",
+  "name": "深海猎杀",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "Two-Hearted_Hunt",
+  "name": "另有所猎",
+  "count": "专精: 猎魔",
+  "mods": [
+   "你在地图中捕获的红魔物获得一个词缀，该词缀使其在鲜血祭坛被献祭时有几率不被消耗"
+  ]
+ },
+ {
+  "slug": "Bestiary_Yellow_Beast_Amount",
+  "name": "猎魔红野兽几率",
+  "count": "专精: 猎魔",
+  "mods": []
+ },
+ {
+  "slug": "Unexpected_Stranger",
+  "name": "流放者通货物品几率",
+  "count": "专精: 盗贼流放者",
+  "mods": []
+ },
+ {
+  "slug": "Exile_Currency_Chance",
+  "name": "流放者通货物品几率",
+  "count": "专精: 盗贼流放者",
+  "mods": []
+ },
+ {
+  "slug": "Royal_Guard",
+  "name": "御林军",
+  "count": "专精: 盗贼流放者",
+  "mods": [
+   "地图首领有 20% 的几率有两个盗贼流放者保镖陪伴"
+  ]
+ },
+ {
+  "slug": "Rogue_Trader",
+  "name": "流浪商人",
+  "count": "专精: 盗贼流放者",
+  "mods": [
+   "地图内的荒野盗贼流放者有 50% 的几率有额外奖励",
+   "地图中的盗贼流放者的生命总增 100%"
+  ]
+ },
+ {
+  "slug": "Additional_Exile_Spawn_Chance",
+  "name": "额外流放者刷新几率",
+  "count": "专精: 盗贼流放者",
+  "mods": []
+ },
+ {
+  "slug": "Exiled_Will",
+  "name": "流放之志",
+  "count": "专精: 盗贼流放者",
+  "mods": [
+   "地图中的荒野盗贼流放者被一个罪魂附身"
+  ]
+ },
+ {
+  "slug": "Ruckus",
+  "name": "卢库斯",
+  "count": "专精: 盗贼流放者",
+  "mods": []
+ },
+ {
+  "slug": "Exile_Pair_Chance",
+  "name": "流放者成对几率",
+  "count": "专精: 盗贼流放者",
+  "mods": [
+   "地图中的荒野盗贼流放者有 10% 的几率成对出现"
+  ]
+ },
+ {
+  "slug": "Treasure_Hunt",
+  "name": "寻宝之旅",
+  "count": "专精: 穿越",
+  "mods": [
+   "你的地图中的时空穿越包含诅咒财宝"
+  ]
+ },
+ {
+  "slug": "Incursion_Chance",
+  "name": "穿越几率",
+  "count": "专精: 穿越",
+  "mods": [
+   "你的地图包含阿尔瓦的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Just_in_Time",
+  "name": "恰逢其时",
+  "count": "专精: 穿越",
+  "mods": [
+   "你的地图包含阿尔瓦的几率 +20%"
+  ]
+ },
+ {
+  "slug": "Time_Dilation",
+  "name": "时间膨胀",
+  "count": "专精: 穿越",
+  "mods": [
+   "地图内的穿越怪物有 33% 的几率至少是魔法怪物"
+  ]
+ },
+ {
+  "slug": "Artefacts_of_the_Vaal",
+  "name": "瓦尔神器",
+  "count": "专精: 穿越",
+  "mods": []
+ },
+ {
+  "slug": "Vaal_Oligarchs",
+  "name": "瓦尔巨头",
+  "count": "专精: 穿越",
+  "mods": []
+ },
+ {
+  "slug": "Incursion_Pack_Size",
+  "name": "穿越怪物群规模",
+  "count": "专精: 穿越",
+  "mods": []
+ },
+ {
+  "slug": "Contested_Development",
+  "name": "互争雄长",
+  "count": "专精: 穿越",
+  "mods": [
+   "在地图内消灭居住的建筑师会使幸存建筑师的房间升一阶"
+  ]
+ },
+ {
+  "slug": "Resource_Reallocation",
+  "name": "重整资源",
+  "count": "专精: 穿越",
+  "mods": [
+   "在地图内消灭非居住的建筑师有 40% 的几率使幸存建筑师的房间升一阶"
+  ]
+ },
+ {
+  "slug": "Incursion_Upgrade_Chance",
+  "name": "穿越升级几率",
+  "count": "专精: 穿越",
+  "mods": [
+   "在地图内消灭非居住的建筑师有 10% 的几率使幸存建筑师的房间升一阶"
+  ]
+ },
+ {
+  "slug": "Skittering_Darkness",
+  "name": "飞掠黑暗",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Darkness_Rising",
+  "name": "黑暗崛起",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Reactive_Swarm",
+  "name": "反应性虫群",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Sustained_Horde",
+  "name": "经久不衰的部落",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Trail_of_Destruction",
+  "name": "毁灭之路",
+  "count": "",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Chance",
+  "name": "深渊几率",
+  "count": "专精: 深渊",
+  "mods": [
+   "地图内有深渊的几率 +8%"
+  ]
+ },
+ {
+  "slug": "Abyss_Monster_Count",
+  "name": "深渊怪物数量",
+  "count": "数量: 6",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Rare_Monsters",
+  "name": "深渊稀有怪物",
+  "count": "数量: 3",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Additional_Pit_Chance",
+  "name": "深渊额外巨坑几率",
+  "count": "数量: 3",
+  "mods": []
+ },
+ {
+  "slug": "Awakened_Depths",
+  "name": "觉醒黑渊",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Ulaman_Chance",
+  "name": "深渊乌拉曼几率",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Inspired_Darkness",
+  "name": "激发黑暗",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Kurgal_Chance",
+  "name": "深渊古加尔几率",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Amanamu_Chance",
+  "name": "深渊阿曼娜姆几率",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Corrupted_Gaze",
+  "name": "腐化凝视",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyss_Monsters_and_Experience",
+  "name": "深渊怪物与经验",
+  "count": "专精: 深渊",
+  "mods": [
+   "地图内深渊怪物提供的经验值提高 10%"
+  ]
+ },
+ {
+  "slug": "Votive_Hoard",
+  "name": "还愿",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Rare_Item_Abyssal_Socket_Chance",
+  "name": "稀有物品深渊插槽几率",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyssal_Depths_Chance",
+  "name": "绝望深渊几率",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyssal_Jewel_Chance",
+  "name": "深渊珠宝几率",
+  "count": "专精: 深渊",
+  "mods": []
+ },
+ {
+  "slug": "Abyssal_Army",
+  "name": "深渊大军",
+  "count": "专精: 深渊",
+  "mods": [
+   "地图内深渊怪物提供的经验值提高 50%"
+  ]
+ },
+ {
+  "slug": "Underground_Kingdom",
+  "name": "地下王国",
+  "count": "专精: 深渊",
+  "mods": []
+ }
+]

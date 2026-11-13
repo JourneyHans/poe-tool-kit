@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>流放之路 1 · 舆图天赋树（中文版）</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <b>舆图天赋树</b>
+    <span class="ver" id="ver">中文版</span>
+  </div>
+  <div class="search">
+    <input id="q" type="search" placeholder="搜索节点名称 / 词缀（回车下一个，Esc 清空）" autocomplete="off">
+    <span id="hits"></span>
+  </div>
+  <div class="zoom">
+    <button id="out" title="缩小（-）">&minus;</button>
+    <span id="pct">100%</span>
+    <button id="in" title="放大（+）">+</button>
+    <button id="fit" title="适应窗口（0）">适应</button>
+    <button id="bg" title="背景图（B）" class="on">背景</button>
+    <button id="presetBtn" class="accent" title="打开预设方案">预设方案</button>
+    <button id="shareBtn" title="复制当前加点链接（含点数与选择）">分享</button>
+    <button id="exportBtn" title="复制加点文本清单">导出</button>
+    <a id="guideBtn" class="btnlink" href="guide.html" target="_blank" title="完整中文攻略与机制详解">指南</a>
+    <button id="helpBtn" title="快捷键与说明">?</button>
+  </div>
+</header>
+
+<main>
+  <aside id="side" class="open">
+    <div class="tabs">
+      <button data-tab="presets" class="on">预设加点方案</button>
+      <button data-tab="picked">已选节点</button>
+      <button data-tab="effects">效果汇总</button>
+      <button data-tab="regions">区域索引</button>
+    </div>
+
+    <section id="tab-presets" class="tab on">
+      <div class="presets-head">
+        <div>
+          <div class="big">12 套预设 · 一键预览</div>
+          <div class="muted">点「预览」在树上逐步高亮；点「应用到我的加点」可直接载入。</div>
+        </div>
+        <button id="presetClose" class="ghost">收起</button>
+      </div>
+      <div id="presetList" class="preset-list"></div>
+    </section>
+
+    <section id="tab-picked" class="tab">
+      <div class="picked-head">
+        <div id="count" class="count">0 / 150</div>
+        <div class="picked-actions">
+          <button id="undo" class="ghost" title="撤销上一步（Ctrl+Z）">撤销</button>
+          <button id="clear" class="ghost" title="清空全部">清空</button>
+        </div>
+      </div>
+      <div class="muted" id="hintEmpty">在右侧树上点击节点即可加点；系统会自动补上从起点到该节点的最短路径，并扣除对应点数。</div>
+      <ul id="pickedList" class="picked-list"></ul>
+    </section>
+
+    <section id="tab-effects" class="tab">
+      <div class="muted">把当前已选节点的词缀按数值合并（同名百分比相加），方便核对收益。</div>
+      <ul id="effectList" class="effect-list"></ul>
+    </section>
+
+    <section id="tab-regions" class="tab">
+      <div class="muted">按区域（奥义石）索引：点击区域名可定位到该区域，点击节点名可直接加点。</div>
+      <div id="regionList" class="region-list"></div>
+    </section>
+  </aside>
+
+  <div id="stage">
+    <canvas id="c"></canvas>
+    <div id="previewBar" class="preview-bar hidden">
+      <div class="pb-left">
+        <span id="pbIcon" class="pb-icon">裂</span>
+        <div>
+          <div id="pbName" class="pb-name"></div>
+          <div id="pbMeta" class="pb-meta"></div>
+        </div>
+      </div>
+      <div class="pb-actions">
+        <button id="pbStep" class="ghost" title="逐点回放（←/→）">逐点回放</button>
+        <button id="pbApply" class="accent">应用到我的加点</button>
+        <button id="pbExit" class="ghost">退出预览</button>
+      </div>
+    </div>
+    <div class="legend">
+      <span><i class="dot k"></i>关键天赋</span>
+      <span><i class="dot n"></i>显著天赋</span>
+      <span><i class="dot c"></i>多选一</span>
+      <span><i class="dot on"></i>已分配</span>
+    </div>
+  </div>
+</main>
+
+<div id="tip"></div>
+<div id="menu"></div>
+<div id="toast"></div>
+<div id="assetWarn" class="asset-warn hidden"></div>
+<div id="copyBox" class="modal hidden">
+  <div class="modal-card">
+    <div class="modal-head"><b>复制这份内容</b><button id="copyClose" class="ghost">关闭</button></div>
+    <p class="muted">浏览器拒绝了自动复制（常见于本地 file:// 打开）。下面内容已全选，按 Ctrl/Cmd + C 即可。</p>
+    <textarea id="copyText" readonly></textarea>
+  </div>
+</div>
+
+<script src="trees/data.zh.js"></script>
+<script src="trees/presets.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

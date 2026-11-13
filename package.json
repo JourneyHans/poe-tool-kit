@@ -1,0 +1,21 @@
+{
+  "name": "poe1-atlas-cn",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "流放之路 1 舆图天赋树中文交互版（数据 / 预设 / 攻略 / 静态站点）",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "npm run build:data && npm run build:presets && npm run build:guide && npm run build:site && npm run build:dist",
+    "build:data": "node tools/build_data.mjs",
+    "build:presets": "node tools/build_presets.mjs",
+    "build:guide": "node tools/build_guide.mjs",
+    "build:site": "node tools/build_standalone.mjs",
+    "build:dist": "node tools/build_dist.mjs",
+    "audit": "node tools/audit_numbers.mjs",
+    "serve": "node tools/serve.mjs",
+    "test": "node tools/cdp_final.mjs"
+  }
+}

@@ -1,0 +1,6116 @@
+[
+ {
+  "text": "2% increased Maps found in your Maps",
+  "count": 44,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Drop Chance",
+   "Map Drop Chance",
+   "Map Drop Chance"
+  ]
+ },
+ {
+  "text": "3% increased Threads found in your Maps",
+  "count": 35,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Thread Drop Chance",
+   "Thread Drop Chance",
+   "Thread Drop Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +25% Surpassing Chance to be haunted by a Tormented Spirit",
+  "count": 20,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Tormented Spirit Chance",
+   "Tormented Spirit Chance",
+   "Tormented Spirit Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +25% Surpassing Chance to contain a Rogue Exile",
+  "count": 20,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Rogue Exile Chance",
+   "Rogue Exile Chance",
+   "Rogue Exile Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +25% Surpassing Chance to contain an Imprisoned Monster",
+  "count": 20,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Essence Chance",
+   "Essence Chance",
+   "Essence Chance"
+  ]
+ },
+ {
+  "text": "4% increased Threads found in your Maps",
+  "count": 18,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Thread Drop Chance",
+   "Thread Drop Chance",
+   "Thread Drop Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +25% Surpassing Chance to contain a Strongbox",
+  "count": 18,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Strongbox Chance",
+   "Strongbox Chance",
+   "Strongbox Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +25% Surpassing Chance to contain a Shrine",
+  "count": 16,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Shrine Chance",
+   "Shrine Chance",
+   "Shrine Chance"
+  ]
+ },
+ {
+  "text": "1% increased Pack Size in your Maps",
+  "count": 15,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Pack Size",
+   "Map Pack Size",
+   "Map Pack Size"
+  ]
+ },
+ {
+  "text": "Your Maps have +15% Surpassing Chance to contain Sacred Flora",
+  "count": 15,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Sacred Flora Chance",
+   "Sacred Flora Chance",
+   "Sacred Flora Chance"
+  ]
+ },
+ {
+  "text": "1% increased Rarity of Items found in your Maps",
+  "count": 13,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Item Rarity",
+   "Item Rarity",
+   "Item Rarity"
+  ]
+ },
+ {
+  "text": "Your Maps have +8% chance to contain Ore Deposits",
+  "count": 13,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ore Deposit Chance",
+   "Ore Deposit Chance",
+   "Ore Deposit Chance"
+  ]
+ },
+ {
+  "text": "3% increased number of Magic Monsters in your Maps",
+  "count": 12,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Magic Monsters",
+   "Map Magic Monsters",
+   "Map Magic Monsters"
+  ]
+ },
+ {
+  "text": "5% increased number of Rare Monsters in your Maps",
+  "count": 11,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Rare Monsters",
+   "Map Rare Monsters",
+   "Map Rare Monsters"
+  ]
+ },
+ {
+  "text": "3% increased number of Rare Monsters in your Maps",
+  "count": 10,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Rare Monsters",
+   "Map Rare Monsters",
+   "Map Rare Monsters"
+  ]
+ },
+ {
+  "text": "Incursions in your Maps have 4% increased Pack Size",
+  "count": 10,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Incursion Pack Size",
+   "Incursion Pack Size",
+   "Incursion Pack Size"
+  ]
+ },
+ {
+  "text": "Tier 1-15 Maps found have 5% chance to become 1 tier higher",
+  "count": 10,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Higher Map Tier Chance",
+   "Higher Map Tier Chance",
+   "Higher Map Tier Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +10% chance to be inhabited by a Mercenary",
+  "count": 10,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mercenary Chance",
+   "Mercenary Chance",
+   "Mercenary Chance"
+  ]
+ },
+ {
+  "text": "20% increased chance for Mercenaries found in your Maps to be Infamous",
+  "count": 9,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Infamous Mercenary Chance",
+   "Infamous Mercenary Chance",
+   "Infamous Mercenary Chance"
+  ]
+ },
+ {
+  "text": "5% increased number of Magic Monsters in your Maps",
+  "count": 9,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Magic Monsters",
+   "Magic Monsters",
+   "Magic Monsters"
+  ]
+ },
+ {
+  "text": "Monsters Sacrificed at Ritual Altars in your Maps grant 6% increased Tribute",
+  "count": 9,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ritual Tribute Gained",
+   "Ritual Tribute Gained",
+   "Ritual Tribute Gained"
+  ]
+ },
+ {
+  "text": "(Wild Rogue Exiles are Rogue Exiles that are placed randomly within the Area)",
+  "count": 8,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Supernatural Genesis",
+   "Exiled Will",
+   "Rogue Exile Item Rarity"
+  ]
+ },
+ {
+  "text": "2% increased effect of Explicit Modifiers on your Maps",
+  "count": 8,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Modifier Effect",
+   "Map Modifier Effect",
+   "Map Modifier Effect"
+  ]
+ },
+ {
+  "text": "8% increased chance for Atlas Anomalies to manifest in your Maps",
+  "count": 8,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Atlas Anomaly Chance",
+   "Atlas Anomaly Chance",
+   "Atlas Anomaly Chance"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps have 15% Surpassing Chance to contain an additional Pit",
+  "count": 8,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Abyss Additional Pit Chance",
+   "Abyss Additional Pit Chance",
+   "Abyss Additional Pit Chance"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by The Eater of Worlds in your Maps have 5% increased Pack Size",
+  "count": 8,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Eater of Worlds Influence Pack Size",
+   "Eater of Worlds Influence Pack Size",
+   "Eater of Worlds Influence Pack Size"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by The Searing Exarch in your Maps have 5% increased Pack Size",
+  "count": 8,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Searing Exarch Influence Pack Size",
+   "Searing Exarch Influence Pack Size",
+   "Searing Exarch Influence Pack Size"
+  ]
+ },
+ {
+  "text": "Ore Deposits in your Maps contain 10% increased Ore",
+  "count": 8,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Increased Ore Found",
+   "Increased Ore Found",
+   "Increased Ore Found"
+  ]
+ },
+ {
+  "text": "Ultimatum Rewards in your Maps have 3% chance to be duplicated",
+  "count": 7,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ultimatum Reward Duplicate Chance",
+   "Ultimatum Reward Duplicate Chance",
+   "Ultimatum Reward Duplicate Chance"
+  ]
+ },
+ {
+  "text": "Your Maps that contain capturable Beasts have 8% chance to contain an additional Red Beast",
+  "count": 7,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Red Beast Chance",
+   "Red Beast Chance",
+   "Red Beast Chance"
+  ]
+ },
+ {
+  "text": "10% increased chance for your Maps to contain Memory Tears (Tier 16+)",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Memory Tear Chance",
+   "Memory Tear Chance",
+   "Memory Tear Chance"
+  ]
+ },
+ {
+  "text": "10% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Betrayal Target Item Rarity",
+   "Betrayal Target Item Rarity",
+   "Betrayal Target Item Rarity"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 4% chance to appear in Pairs",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Red Beast Pair Chance",
+   "Red Beast Pair Chance",
+   "Red Beast Pair Chance"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps have 6% increased Item Rarity",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Unique Monster Item Rarity",
+   "Unique Monster Item Rarity",
+   "Unique Monster Item Rarity"
+  ]
+ },
+ {
+  "text": "Your Maps have 20% increased chance to contain a Buried Sentinel",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Sentinel Chance",
+   "Sentinel Chance",
+   "Sentinel Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have 20% increased chance to contain a Demonic Evocator",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Beyond Chance",
+   "Beyond Chance",
+   "Beyond Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have 20% increased chance to contain a Mirage",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mirage Chance",
+   "Mirage Chance",
+   "Mirage Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have 20% increased chance to contain a Mirror of Delirium",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Delirium Chance",
+   "Delirium Chance",
+   "Delirium Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have 20% increased chance to contain the Viridian Wildwood",
+  "count": 6,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Wildwood Chance",
+   "Wildwood Chance",
+   "Wildwood Chance"
+  ]
+ },
+ {
+  "text": "(Legion Generals are Queen Hyrri Ngamaku, General Marceus Lioneye, Cardinal Sanctus Vox, Viper Napuatzi and Aukuna, the Black Sekhema)",
+  "count": 5,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Legion General Chance",
+   "Legion General Chance",
+   "Legion General Chance"
+  ]
+ },
+ {
+  "text": "10% increased chance for Legion Encounters in your Maps to include a General",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion General Chance",
+   "Legion General Chance",
+   "Legion General Chance"
+  ]
+ },
+ {
+  "text": "10% increased stack size of Gold found in your Maps",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Gold Found",
+   "Gold Found",
+   "Gold Found"
+  ]
+ },
+ {
+  "text": "20% increased chance for Items worn by Mercenaries found in Maps to be Unique",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mercenary Unique Item Chance",
+   "Mercenary Unique Item Chance",
+   "Mercenary Unique Item Chance"
+  ]
+ },
+ {
+  "text": "6% increased Divination Cards found in your Maps",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Divination Card Chance",
+   "Divination Card Chance",
+   "Divination Card Chance"
+  ]
+ },
+ {
+  "text": "8% increased Quantity of Items contained in Strongboxes in your Maps",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Strongbox Item Quantity",
+   "Strongbox Item Quantity",
+   "Strongbox Item Quantity"
+  ]
+ },
+ {
+  "text": "An Abyss Pit will have an additional Rare Monster guarding it",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Abyssal Rare Monsters",
+   "Abyssal Rare Monsters",
+   "Abyssal Rare Monsters"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by Conquerors in your Maps have 5% increased Pack Size",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Conqueror Influenced Pack Size",
+   "Conqueror Influenced Pack Size",
+   "Conqueror Influenced Pack Size"
+  ]
+ },
+ {
+  "text": "Monsters Influenced by The Eater of Worlds in your Maps have 0.2% chance to drop an item with an Eater of Worlds Implicit Modifier",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Eater of Worlds Item Chance",
+   "Eater of Worlds Item Chance",
+   "Eater of Worlds Item Chance"
+  ]
+ },
+ {
+  "text": "Monsters Influenced by The Searing Exarch in your Maps have 0.2% chance to drop an Item with a Searing Exarch Implicit Modifier",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Searing Exarch Item Chance",
+   "Searing Exarch Item Chance",
+   "Searing Exarch Item Chance"
+  ]
+ },
+ {
+  "text": "Synthesised Monsters in Synthesis Maps have 4% increased Pack Size",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Synthesis Monster Pack Size",
+   "Synthesis Monster Pack Size",
+   "Synthesis Monster Pack Size"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps spawn 10% increased number of Rare monsters",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ultimatum Rare Monsters",
+   "Ultimatum Rare Monsters",
+   "Ultimatum Rare Monsters"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps spawn 8% increased number of Monsters",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ultimatum Monster Quantity",
+   "Ultimatum Monster Quantity",
+   "Ultimatum Monster Quantity"
+  ]
+ },
+ {
+  "text": "Your Maps which contain Unstable Breaches have 8% chance to contain an additional Unstable Breach",
+  "count": 5,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Unstable Breach Chance",
+   "Additional Unstable Breach Chance",
+   "Additional Unstable Breach Chance"
+  ]
+ },
+ {
+  "text": "(Allocating a Gateway allows you to allocate Atlas Passive Skills from its connected Gateway)",
+  "count": 4,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Mortal Gateway",
+   "Cryptic Gateway",
+   "Cryptic Gateway"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences",
+  "count": 4,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unbecoming Emotion",
+   "Repressed Emotion",
+   "Ill Feeling"
+  ]
+ },
+ {
+  "text": "5% increased Quantity of Hiveblood found in your Maps",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Hiveblood Quantity",
+   "Breach Hiveblood Quantity",
+   "Breach Hiveblood Quantity"
+  ]
+ },
+ {
+  "text": "8% increased quantity of Artifacts dropped by Monsters in your Maps",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Artifact Quantity",
+   "Expedition Artifact Quantity",
+   "Expedition Artifact Quantity"
+  ]
+ },
+ {
+  "text": "8% increased Quantity of Vendor Refresh Currencies dropped by Monsters in your Maps",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Vendor Reroll Currency Chance",
+   "Expedition Vendor Reroll Currency Chance",
+   "Expedition Vendor Reroll Currency Chance"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps spawn 8% increased Monsters",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Abyss Monster Count",
+   "Abyss Monster Count",
+   "Abyss Monster Count"
+  ]
+ },
+ {
+  "text": "Blight Encounters in your Maps spawn 6% increased Non-Unique Monsters",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Blight Monster Count",
+   "Blight Monster Count",
+   "Blight Monster Count"
+  ]
+ },
+ {
+  "text": "Defeating a Map Boss while Witnessed by The Maven has 1% chance to count as also Witnessing an additional random Map Boss",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Maven Witness Additional Boss Chance",
+   "Maven Witness Additional Boss Chance",
+   "Maven Witness Additional Boss Chance"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members in your Maps have 8% chance to drop an additional Veiled Item",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Betrayal Veiled Item Chance",
+   "Betrayal Veiled Item Chance",
+   "Betrayal Veiled Item Chance"
+  ]
+ },
+ {
+  "text": "Imprisoned Monsters in your Maps have 5% chance to have an additional Essence",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Imprisoned Monster Additional Essence Chance",
+   "Imprisoned Monster Additional Essence Chance",
+   "Imprisoned Monster Additional Essence Chance"
+  ]
+ },
+ {
+  "text": "Revived Monsters from Ritual Altars in your Maps have 8% reduced penalty to Tribute gained",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ritual Reduced Tribute Penalty",
+   "Ritual Reduced Tribute Penalty",
+   "Ritual Reduced Tribute Penalty"
+  ]
+ },
+ {
+  "text": "Timeless Splinters dropped by Legion Monsters in your Maps have 6% chance to be Duplicated",
+  "count": 4,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion Monster Splinter Chance",
+   "Legion Monster Splinter Chance",
+   "Legion Monster Splinter Chance"
+  ]
+ },
+ {
+  "text": "(Rogue Exile Bodyguards take 50% less damage, and have additional Rewards.)",
+  "count": 3,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Rogue Exile Bodyguard Chance",
+   "Rogue Exile Bodyguard Chance",
+   "Royal Guard"
+  ]
+ },
+ {
+  "text": "+10% Surpassing Chance that a lane of Blight encounters in your Maps is at least Magic",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Blight Magic Lane Chance",
+   "Blight Magic Lane Chance",
+   "Blight Magic Lane Chance"
+  ]
+ },
+ {
+  "text": "10% increased Wildwood Wisps spread by Sacred Flora in your Maps",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Sacred Flora Wisp Quantity",
+   "Sacred Flora Wisp Quantity",
+   "Sacred Flora Wisp Quantity"
+  ]
+ },
+ {
+  "text": "10% reduced Cost of Building and Upgrading Towers in your Maps",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Tower Cost",
+   "Tower Cost",
+   "Tower Cost"
+  ]
+ },
+ {
+  "text": "20% increased effect of Shrine Buffs on players granted by Shrines in your Maps",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Shrine Effect",
+   "Shrine Effect",
+   "Shrine Effect"
+  ]
+ },
+ {
+  "text": "5% increased Quantity of Wombgifts found in your Maps",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Wombgift Quantity",
+   "Breach Wombgift Quantity",
+   "Breach Wombgift Quantity"
+  ]
+ },
+ {
+  "text": "8% chance for Blight Chests to contain an additional Reward",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Blight Chest Reward Chance",
+   "Additional Blight Chest Reward Chance",
+   "Additional Blight Chest Reward Chance"
+  ]
+ },
+ {
+  "text": "Abyssal Monsters in your Maps have 8% increased Item Rarity",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Abyssal Monster Rarity",
+   "Abyssal Monster Rarity",
+   "Abyssal Monster Rarity"
+  ]
+ },
+ {
+  "text": "Blight Bosses in your Maps have 10% chance to add an additional Reward Chest to their Lane",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Boss Lane Additional Reward Chance",
+   "Boss Lane Additional Reward Chance",
+   "Boss Lane Additional Reward Chance"
+  ]
+ },
+ {
+  "text": "Breaches in your Maps spawn 5% increased Magic Monsters",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Magic Monster Chance",
+   "Breach Magic Monster Chance",
+   "Breach Magic Monster Chance"
+  ]
+ },
+ {
+  "text": "Deferring Favours at Ritual Altars in your Maps costs 10% reduced Tribute",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Reduced Ritual Deferral Cost",
+   "Reduced Ritual Deferral Cost",
+   "Reduced Ritual Deferral Cost"
+  ]
+ },
+ {
+  "text": "Einhar has 40% increased Cooldown Recovery Rate in your Maps",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Einhar Cooldown Recovery",
+   "Einhar Cooldown Recovery",
+   "Einhar Cooldown Recovery"
+  ]
+ },
+ {
+  "text": "Essences found in your Maps have 8% chance to be a tier higher",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Higher Tier Essence Chance",
+   "Higher Tier Essence Chance",
+   "Higher Tier Essence Chance"
+  ]
+ },
+ {
+  "text": "Expedition Monsters in your Maps have 10% increased Item Rarity",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Monster Item Rarity",
+   "Expedition Monster Item Rarity",
+   "Expedition Monster Item Rarity"
+  ]
+ },
+ {
+  "text": "Expeditions in your Maps have +1 Remnants",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Remnant Count",
+   "Expedition Remnant Count",
+   "Expedition Remnant Count"
+  ]
+ },
+ {
+  "text": "Incursion Architects in your Maps have 20% increased Item Rarity",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Incursion Architect Rarity",
+   "Incursion Architect Rarity",
+   "Incursion Architect Rarity"
+  ]
+ },
+ {
+  "text": "Incursion Monsters in your Maps have 6% increased Item Rarity",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Incursion Monster Rarity",
+   "Incursion Monster Rarity",
+   "Incursion Monster Rarity"
+  ]
+ },
+ {
+  "text": "Incursions in your Maps have 5% chance for all Monsters to be at least Magic",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Incursion at least Magic Chance",
+   "Incursion at least Magic Chance",
+   "Incursion at least Magic Chance"
+  ]
+ },
+ {
+  "text": "Legion Chests released from Stasis in your Maps release other Monsters and Chests with 20% increased Range",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion Chest Break Out Range",
+   "Legion Chest Break Out Range",
+   "Legion Chest Break Out Range"
+  ]
+ },
+ {
+  "text": "Legion Sergeants in your Maps have 8% additional chance to have Rewards",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion Sergeant Reward Chance",
+   "Legion Sergeant Reward Chance",
+   "Legion Sergeant Reward Chance"
+  ]
+ },
+ {
+  "text": "Rerolling Favours at Ritual Altars in your Maps costs 10% reduced Tribute",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ritual Reroll Cost",
+   "Ritual Reroll Cost",
+   "Ritual Reroll Cost"
+  ]
+ },
+ {
+  "text": "Ritual Splinters offered at Ritual Altars in your Maps have 12% increased Stack Size",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Increased Ritual Splinters",
+   "Increased Ritual Splinters",
+   "Increased Ritual Splinters"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps have 10% increased chance to be a Tier 3 Monster",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Tier 3 Monster Chance",
+   "Tier 3 Monster Chance",
+   "Tier 3 Monster Chance"
+  ]
+ },
+ {
+  "text": "Select a type of content to have additional chance to spawn",
+  "count": 3,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Outside Entities",
+   "Merged Worlds",
+   "Blended Realities"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps have 15% chance to be guarded by an additional Pack of Monsters",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Strongbox Additional Pack Chance",
+   "Strongbox Additional Pack Chance",
+   "Strongbox Additional Pack Chance"
+  ]
+ },
+ {
+  "text": "Strongboxes opened in your Maps have 2% chance to be openable again",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Strongbox Chance to be Reopenable ",
+   "Strongbox Chance to be Reopenable ",
+   "Strongbox Chance to be Reopenable "
+  ]
+ },
+ {
+  "text": "Timeless Splinters contained in Legion Chests in your Maps have 6% chance to be Duplicated",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion Chest Splinter Chance",
+   "Legion Chest Splinter Chance",
+   "Legion Chest Splinter Chance"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps have 10% increased chance for the final Round to include a Boss",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ultimatum Boss Chance",
+   "Ultimatum Boss Chance",
+   "Ultimatum Boss Chance"
+  ]
+ },
+ {
+  "text": "Ultimatum Rewards in your Maps have 15% increased chance to be Inscribed Ultimatums",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Inscribed Ultimatum Reward Chance",
+   "Inscribed Ultimatum Reward Chance",
+   "Inscribed Ultimatum Reward Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +3% chance to contain a Trial of Ascendancy",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Labyrinth Trial Chance",
+   "Labyrinth Trial Chance",
+   "Labyrinth Trial Chance"
+  ]
+ },
+ {
+  "text": "Your Maps that contain capturable Beasts contain 1 additional Yellow Beast",
+  "count": 3,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Yellow Beast",
+   "Additional Yellow Beast",
+   "Additional Yellow Beast"
+  ]
+ },
+ {
+  "text": "(Maven Chisels can only drop if you have the Ceremonial Voidstone socketed in your Atlas)",
+  "count": 2,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Maven Chisel Chance",
+   "Maven Chisel Chance"
+  ]
+ },
+ {
+  "text": "(The higher toughness a monster has, the less damage it takes. A monster with 100% increased Toughness takes 50% less damage, a monster with 200% increased toughness takes 67% less damage, and so on. Reduced toughness causes monsters to take more damage)",
+  "count": 2,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Kindled Flame",
+   "Fate Bespoken"
+  ]
+ },
+ {
+  "text": "(This modifier does not affect things that check the life of corpses)",
+  "count": 2,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Wellspring of Creation",
+   "Dance of Destruction"
+  ]
+ },
+ {
+  "text": "+50% Surpassing Chance that a lane of Blight encounters in your Maps is at least Magic",
+  "count": 2,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rampant Infection",
+   "Sprawling Veins"
+  ]
+ },
+ {
+  "text": "10% increased chance for Equipment Items dropped in your Maps to have Memory Strands",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Equipment Item Memory Strands Chance",
+   "Equipment Item Memory Strands Chance"
+  ]
+ },
+ {
+  "text": "10% increased chance for Maps found in your Maps to have Memory Influence",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Map Item Memory Influence Chance",
+   "Map Item Memory Influence Chance"
+  ]
+ },
+ {
+  "text": "15% increased chance for Bosses Witnessed by the Maven in your Maps to drop Maven Chisels",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Maven Chisel Chance",
+   "Maven Chisel Chance"
+  ]
+ },
+ {
+  "text": "15% increased Explosive Placement Range in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Explosive Placement Distance",
+   "Explosive Placement Distance"
+  ]
+ },
+ {
+  "text": "15% increased Explosive Radius in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Explosive Radius",
+   "Expedition Explosive Radius"
+  ]
+ },
+ {
+  "text": "15% increased quantity of Abyss Jewels found in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Abyssal Jewel Chance",
+   "Abyssal Jewel Chance"
+  ]
+ },
+ {
+  "text": "15% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Rogue Exile Item Rarity",
+   "Rogue Exile Item Rarity"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type",
+  "count": 2,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Sinistral Threads",
+   "Dextral Threads"
+  ]
+ },
+ {
+  "text": "25% increased duration of Shrine Buffs on players granted by Shrines in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Shrine Duration",
+   "Shrine Duration"
+  ]
+ },
+ {
+  "text": "30% increased chance for Immortal Syndicate Members in your Maps to offer to Bargain for Items",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Betrayal Bargain Chance",
+   "Betrayal Bargain Chance"
+  ]
+ },
+ {
+  "text": "30% increased Damage of skills created by Ailith within Breach Hives in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ailith Skill Damage",
+   "Ailith Skill Damage"
+  ]
+ },
+ {
+  "text": "4% increased Divination Cards found in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Divination Card Chance and Magic Monsters",
+   "Divination Card Chance and Magic Monsters"
+  ]
+ },
+ {
+  "text": "6% chance for Wild Rogue Exiles in your Maps to appear in Pairs",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Rogue Exile Pair Chance",
+   "Rogue Exile Pair Chance"
+  ]
+ },
+ {
+  "text": "8% increased Quantity of Wombgifts found in your Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Wombgift Quantity",
+   "Breach Wombgift Quantity"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps have 20% increased chance to lead to an Abyssal Depths",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Depths Chance",
+   "Depths Chance"
+  ]
+ },
+ {
+  "text": "Blight Chests in your Maps have 15% more chance to contain Blighted Maps",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Blighted Map Reward Chance",
+   "Blighted Map Reward Chance"
+  ]
+ },
+ {
+  "text": "Blight Encounters in your Maps spawn 8% increased Non-Unique Monsters",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Blight Monster Count",
+   "Blight Monster Count"
+  ]
+ },
+ {
+  "text": "Blight Monsters in your Maps take 10% increased Damage",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Blight Monster Increased Damage Taken",
+   "Blight Monster Increased Damage Taken"
+  ]
+ },
+ {
+  "text": "Breach Hives in your Maps have 20% increased number of Flammable Burrows",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Flammable Burrows",
+   "Breach Flammable Burrows"
+  ]
+ },
+ {
+  "text": "Breach Monsters in your Maps have 5% increased Pack Size",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Pack Size",
+   "Breach Pack Size"
+  ]
+ },
+ {
+  "text": "Breaches in your Maps spawn 5% increased Rare Monsters",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Breach Rare Monster Chance",
+   "Breach Rare Monster Chance"
+  ]
+ },
+ {
+  "text": "Connects to Cryptic Gateway",
+  "count": 2,
+  "kinds": [
+   "wormhole"
+  ],
+  "ex": [
+   "Cryptic Gateway",
+   "Cryptic Gateway"
+  ]
+ },
+ {
+  "text": "Connects to Mortal Gateway",
+  "count": 2,
+  "kinds": [
+   "wormhole"
+  ],
+  "ex": [
+   "Mortal Gateway",
+   "Mortal Gateway"
+  ]
+ },
+ {
+  "text": "Expedition Monsters in your Maps spawn with an additional 10% of Life missing",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Monster Missing Life",
+   "Expedition Monster Missing Life"
+  ]
+ },
+ {
+  "text": "Favours Deferred at Ritual Altars in your Maps reappear 25% sooner",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Reduced Ritual Deferral Time",
+   "Reduced Ritual Deferral Time"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members Executed in your Maps have 10% chance to gain an additional Rank",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Betrayal Additional Rank Chance",
+   "Betrayal Additional Rank Chance"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members in your Maps have 8% increased chance to be accompanied by reinforcements",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Betrayal Syndicate Reinforcement Chance",
+   "Betrayal Syndicate Reinforcement Chance"
+  ]
+ },
+ {
+  "text": "Interrogated Immortal Syndicate targets in your Maps have 5% chance to not lose Rank upon completing Interrogation",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Betrayal Don't Lose Rank Chance",
+   "Betrayal Don't Lose Rank Chance"
+  ]
+ },
+ {
+  "text": "Lanes of Blight Encounters in your Maps have 5% chance for an additional Reward Chest",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Blight Chest Chance",
+   "Additional Blight Chest Chance"
+  ]
+ },
+ {
+  "text": "Legion Monsters in your Maps have 6% increased Pack Size",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion Pack Size",
+   "Legion Pack Size"
+  ]
+ },
+ {
+  "text": "Map Bosses have 8% chance to be accompanied by two Rogue Exile Bodyguards",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Rogue Exile Bodyguard Chance",
+   "Rogue Exile Bodyguard Chance"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by The Elder in your Maps have 5% increased Pack Size",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Elder Influenced Pack Size",
+   "Elder Influenced Pack Size"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by The Shaper in your Maps have 5% increased Pack Size",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Shaper Influenced Pack Size",
+   "Shaper Influenced Pack Size"
+  ]
+ },
+ {
+  "text": "On defeating Mercenaries found in your Maps they drop 1 of their untaken Items",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mercenary Additional Item Dropped",
+   "Mercenary Additional Item Dropped"
+  ]
+ },
+ {
+  "text": "Portals to your Maps have 10% chance to not be consumed on use",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Portal Not Consumed Chance",
+   "Portal Not Consumed Chance"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps drop 6% increased Quantity of Lifeforce",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Lifeforce",
+   "Additional Lifeforce"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps have 3% chance to be duplicated",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Sacred Fauna Duplication Chance",
+   "Sacred Fauna Duplication Chance"
+  ]
+ },
+ {
+  "text": "Shrines in your Maps have 20% chance to be guarded by an additional Pack of Monsters",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Shrine Pack Chance",
+   "Shrine Pack Chance"
+  ]
+ },
+ {
+  "text": "Skills on Mercenaries found in your Maps have 20% chance to have an additional Support",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mercenary Additional Supports Chance",
+   "Mercenary Additional Supports Chance"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type",
+  "count": 2,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Threadbare",
+   "Unthreaded"
+  ]
+ },
+ {
+  "text": "Tier 1-15 Maps found have 15% chance to become 1 tier higher",
+  "count": 2,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the Skies",
+   "Shaping the Mountains"
+  ]
+ },
+ {
+  "text": "Tormented Spirits in your Maps have 25% increased Duration",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Tormented Spirit Duration",
+   "Tormented Spirit Duration"
+  ]
+ },
+ {
+  "text": "Ultimatum Monsters in your Maps have 8% increased Item Rarity",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ultimatum Monster Item Rarity",
+   "Ultimatum Monster Item Rarity"
+  ]
+ },
+ {
+  "text": "Your Maps contain 10% increased number of Runic Monster Markers",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Expedition Runic Monsters",
+   "Expedition Runic Monsters"
+  ]
+ },
+ {
+  "text": "Your Maps contain an additional pack of Incursion Monsters",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Incursion Pack",
+   "Additional Incursion Pack"
+  ]
+ },
+ {
+  "text": "Your Maps have +10% chance to contain multiple Ore Deposits",
+  "count": 2,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Second Ore Deposit Chance",
+   "Second Ore Deposit Chance"
+  ]
+ },
+ {
+  "text": "Your Maps have +20% chance to contain Ore Deposits",
+  "count": 2,
+  "kinds": [
+   "notable:choice",
+   "notable"
+  ],
+  "ex": [
+   "Merged Worlds",
+   "Prospector's Luck"
+  ]
+ },
+ {
+  "text": "(Bestial Rage increases the Movement Speed, Attack Speed and Damage of the affected Beast)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Beasts of Prey"
+  ]
+ },
+ {
+  "text": "(Cannot modifiy Blighted Maps or Maps behind Voidstone sockets on the Atlas)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Twist of Fate"
+  ]
+ },
+ {
+  "text": "(Conquerors are Baran, the Crusader, Veritania, the Redeemer, Al-Hezmin, the Hunter and Drox, the Warlord)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Conquered Conquerors"
+  ]
+ },
+ {
+  "text": "(Essences in White Maps can reach a maximum tier of Screaming, and Essences in Yellow or Red Maps can reach a maximum tier of Shrieking)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Amplified Energies"
+  ]
+ },
+ {
+  "text": "(Final Map Boss in Tier 14+ Maps have a 2% base chance to drop a Conqueror Map)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Conquered Conquerors"
+  ]
+ },
+ {
+  "text": "(Final Map Boss in Tier 14+ Maps have a 2% base chance to drop a Synthesis Map)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Vivid Memories"
+  ]
+ },
+ {
+  "text": "(Final Map Boss in Tier 14+ Maps have a 3% base chance to drop a Shaper Guardian Map)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Remnants of the Past"
+  ]
+ },
+ {
+  "text": "(Final Map Boss in Tier 14+ Maps have a 3% base chance to drop an Elder Guardian Map)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Remnants of the Past"
+  ]
+ },
+ {
+  "text": "(Having more Divination Cards that can be found in a Map increases the chances for Divination Cards to be found)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "The Paths Not Taken"
+  ]
+ },
+ {
+  "text": "(Hunters' Cunning grants less damage taken from Beasts, increased damage against Beasts, and increased Quantity and Rarity of items found from slain Beasts)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Beasts of Prey"
+  ]
+ },
+ {
+  "text": "(Lost Shipments contain random rewards from Kalguuran or Karui ports)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Lost in Transit"
+  ]
+ },
+ {
+  "text": "(Lucky things are rolled twice and the best result used)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Grasp the Past"
+  ]
+ },
+ {
+  "text": "(Monsters in Stasis do not take any actions)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Prolonged Struggle"
+  ]
+ },
+ {
+  "text": "(Players can Touch up to 50 nearby normal or magic Monsters for each Tormented Spirit Possessing them)",
+  "count": 1,
+  "kinds": [
+   "reminder"
+  ],
+  "ex": [
+   "Speaker of the Dead"
+  ]
+ },
+ {
+  "text": "+2% chance for a Synthesis Map to drop from Final Map Boss in each Map (Tier 14+)",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Vivid Memories"
+  ]
+ },
+ {
+  "text": "1% increased Rarity of Items from Unique Monsters in your Maps per 1% Map Pack Size",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Gross Abnormalities"
+  ]
+ },
+ {
+  "text": "10% chance for a Rogue Exile in your Tier 16 Maps to be Exceptional",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Arch Enemy"
+  ]
+ },
+ {
+  "text": "10% chance for a Shrine in your Tier 16 Maps to be replaced by an Evolving Shrine",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Beckoning Horror"
+  ]
+ },
+ {
+  "text": "10% chance for a Strongbox in your Tier 16 Maps to be replaced with the Empyrean Apparatus",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Explorer's Reliquary"
+  ]
+ },
+ {
+  "text": "10% chance for a Tormented Spirit in your Tier 16 Maps to be replaced by a Tormented Procurator",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Exodus of Souls"
+  ]
+ },
+ {
+  "text": "10% chance on defeating Mercenaries found in your Maps for them to drop all their Items",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Loot and Pillage"
+  ]
+ },
+ {
+  "text": "10% increased number of Magic Monsters in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the Skies"
+  ]
+ },
+ {
+  "text": "10% increased number of Rare Monsters in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the Mountains"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Anger",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Buried Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Anguish",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Repressed Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Contempt",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Buried Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Doubt",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unbecoming Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Dread",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Ill Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Envy",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Ill Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Fear",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Repressed Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Greed",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unbecoming Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Hatred",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Buried Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Loathing",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Repressed Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Misery",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Ill Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Rage",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unbecoming Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Scorn",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Ill Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Sorrow",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unbecoming Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Spite",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unbecoming Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Suffering",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Repressed Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Torment",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Repressed Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Woe",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unbecoming Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Wrath",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Buried Feeling"
+  ]
+ },
+ {
+  "text": "100% increased chance for Imprisoned Monsters to have certain Essences: Zeal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Repressed Emotion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Mercenaries found in your Maps to be Infamous",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Renowned Fighter"
+  ]
+ },
+ {
+  "text": "100% increased chance for Ore Deposits found in your Maps to be Bismuth",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Bismuth Infusion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Ore Deposits found in your Maps to be Crimson Iron",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Crimson Infusion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Ore Deposits found in your Maps to be Orichalcum",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Orichalcum Infusion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Ore Deposits found in your Maps to be Petrified Amber",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Amber Infusion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Ore Deposits found in your Maps to be Verisium",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Verisium Infusion"
+  ]
+ },
+ {
+  "text": "100% increased chance for Shrines in your Maps to be of type",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Path of Worship"
+  ]
+ },
+ {
+  "text": "100% increased chance for Shrines in your Maps to be of type Acceleration Shrine",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Path of Worship"
+  ]
+ },
+ {
+  "text": "100% increased chance for Shrines in your Maps to be of type Covetous Shrine",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Path of Worship"
+  ]
+ },
+ {
+  "text": "100% increased chance for Shrines in your Maps to be of type Gloom Shrine",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Path of Worship"
+  ]
+ },
+ {
+  "text": "100% increased chance for Strongboxes in your Maps to be of type",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Augured Cache"
+  ]
+ },
+ {
+  "text": "100% increased chance for Strongboxes in your Maps to be of type Arcanist's or Artisan's",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Augured Cache"
+  ]
+ },
+ {
+  "text": "100% increased chance for Strongboxes in your Maps to be of type Cartographer's",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Augured Cache"
+  ]
+ },
+ {
+  "text": "100% increased chance for Strongboxes in your Maps to be of type Diviner's",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Augured Cache"
+  ]
+ },
+ {
+  "text": "100% increased chance for Strongboxes in your Maps to be Unique",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Exotic Repositories"
+  ]
+ },
+ {
+  "text": "100% increased chance for Wombgifts found in your Maps to be",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fertile Ground"
+  ]
+ },
+ {
+  "text": "100% increased chance for Wombgifts found in your Maps to be Ancient",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fertile Ground"
+  ]
+ },
+ {
+  "text": "100% increased chance for Wombgifts found in your Maps to be Lavish",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fertile Ground"
+  ]
+ },
+ {
+  "text": "100% increased chance for Wombgifts found in your Maps to be Mysterious",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fertile Ground"
+  ]
+ },
+ {
+  "text": "100% increased chance for Wombgifts found in your Maps to be Provisioning",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fertile Ground"
+  ]
+ },
+ {
+  "text": "100% increased chance for your Maps to contain certain Tormented Spirits",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fated Meeting"
+  ]
+ },
+ {
+  "text": "100% increased chance for your Maps to contain certain Tormented Spirits: Tormented Embezzler",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fated Meeting"
+  ]
+ },
+ {
+  "text": "100% increased chance for your Maps to contain certain Tormented Spirits: Tormented Heretic",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fated Meeting"
+  ]
+ },
+ {
+  "text": "100% increased chance for your Maps to contain certain Tormented Spirits: Tormented Smuggler",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Fated Meeting"
+  ]
+ },
+ {
+  "text": "100% increased chance to encounter certain Sacred Flora",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Arboriculture"
+  ]
+ },
+ {
+  "text": "100% increased chance to encounter certain Sacred Flora: Primal Roots",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Arboriculture"
+  ]
+ },
+ {
+  "text": "100% increased chance to encounter certain Sacred Flora: Vivid Roots",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Arboriculture"
+  ]
+ },
+ {
+  "text": "100% increased chance to encounter certain Sacred Flora: Wild Roots",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Arboriculture"
+  ]
+ },
+ {
+  "text": "100% increased Gold dropped by Unique Monsters in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Gilded Armour"
+  ]
+ },
+ {
+  "text": "100% increased number of skills created by Ailith within Breach Hives not leading to Fortresses in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Protracted Siege"
+  ]
+ },
+ {
+  "text": "2% increased effect of Explicit Modifiers on your Maps per Explicit Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Mounting Modifiers"
+  ]
+ },
+ {
+  "text": "20% chance for Wild Rogue Exiles in your Maps to appear in Pairs",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Seeing Double"
+  ]
+ },
+ {
+  "text": "20% chance to create a copy of Beasts Captured in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Bonded for Life"
+  ]
+ },
+ {
+  "text": "20% increased chance to find Eater of Worlds Altars in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "The Shadow of Hunger"
+  ]
+ },
+ {
+  "text": "200% increased chance for Immortal Syndicate Members in your Maps to offer to Bargain for Items",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hard Bargain"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Duelist",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Marauder",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Ranger",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Scion",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Shadow",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Templar",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Mercenaries in your Maps to be of class Witch",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "House Supremacy"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Abyss",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Sinistral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Bestiary",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Sinistral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Betrayal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Sinistral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Blight",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Sinistral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Breach",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Dextral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Expedition",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Dextral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Incursion",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Dextral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Legion",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Sinistral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Ritual",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Dextral Threads"
+  ]
+ },
+ {
+  "text": "200% increased chance for Threads in your Maps to be of type Ultimatum",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Dextral Threads"
+  ]
+ },
+ {
+  "text": "25% chance for Catalyst rewards offered by Ultimatums in your Maps to be replaced by Inscribed Ultimatum Rewards for the Map Owner",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Bound for Utzaal"
+  ]
+ },
+ {
+  "text": "25% chance for Shrines in your Maps to be Tormented",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Ghostflame Communion"
+  ]
+ },
+ {
+  "text": "25% increased effect of Prefix Modifiers on your Maps",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Malignant Modifiers"
+  ]
+ },
+ {
+  "text": "25% increased effect of Suffix Modifiers on your Maps",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Malignant Modifiers"
+  ]
+ },
+ {
+  "text": "25% increased Magic Pack Size in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Deep Bloodlines"
+  ]
+ },
+ {
+  "text": "3 Rare Monsters in each of your Maps are Duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Seeing Double"
+  ]
+ },
+ {
+  "text": "30% chance for Blighted Maps found in your Maps to have 3 additional random Anointments",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Biological Vector"
+  ]
+ },
+ {
+  "text": "30% increased chance for Atlas Anomalies to manifest in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Emerging Realities"
+  ]
+ },
+ {
+  "text": "30% increased effect of Shrine Buffs on players granted by Shrines in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Syncretism"
+  ]
+ },
+ {
+  "text": "30% increased Toughness of Unique Monsters in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Gilded Armour"
+  ]
+ },
+ {
+  "text": "4 Monster Packs in your Maps are upgraded to Magic",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Group Solidarity"
+  ]
+ },
+ {
+  "text": "4% chance for Veiled Items found in your Maps to drop as Allflames instead",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Secrets Unveiled"
+  ]
+ },
+ {
+  "text": "5% increased effect of Explicit Modifiers on your Maps per different Thread used with Map",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Multiplying Modifiers"
+  ]
+ },
+ {
+  "text": "5% increased Maps found in your Maps for each Explicit Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the Mountains"
+  ]
+ },
+ {
+  "text": "50% chance for Monsters guarding Ore Deposits in your Maps to be at least Magic",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Mineral Influence"
+  ]
+ },
+ {
+  "text": "50% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "The Light of Dawn"
+  ]
+ },
+ {
+  "text": "50% increased chance of Ritual Altars in your Maps to have Special Rewards",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Burial Rites"
+  ]
+ },
+ {
+  "text": "50% increased number of Explosives in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Distinguished Demolitionist"
+  ]
+ },
+ {
+  "text": "50% increased Quantity of Timeless Splinters dropped by Legion Generals in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Leader of Men"
+  ]
+ },
+ {
+  "text": "6% chance for Ore Deposits in your Maps to be replaced by Lost Shipments",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Lost in Transit"
+  ]
+ },
+ {
+  "text": "6% chance on Interrogating Syndicate Members in your level 83+ Maps to manifest a Safehouse Atlas Anomaly",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Coercive Interrogation"
+  ]
+ },
+ {
+  "text": "6% increased effect of Explicit Modifiers on your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Invasive Adversaries"
+  ]
+ },
+ {
+  "text": "60% increased quantity of Expedition Logbooks dropped by Runic Monsters in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "What Lies Beneath "
+  ]
+ },
+ {
+  "text": "75% chance for Threads found in your Maps to be converted to Gold",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Unwavering Vision"
+  ]
+ },
+ {
+  "text": "75% less chance for Mercenaries in your Maps to be",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trarthan Policy"
+  ]
+ },
+ {
+  "text": "75% less chance for Mercenaries in your Maps to be Dexterity aligned",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trarthan Policy"
+  ]
+ },
+ {
+  "text": "75% less chance for Mercenaries in your Maps to be Intelligence aligned",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trarthan Policy"
+  ]
+ },
+ {
+  "text": "75% less chance for Mercenaries in your Maps to be Strength aligned",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trarthan Policy"
+  ]
+ },
+ {
+  "text": "80% reduced chance for Memory Traces to lead towards the Incarnation of Dread",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Traumatic Experience"
+  ]
+ },
+ {
+  "text": "80% reduced chance for Memory Traces to lead towards the Incarnation of Fear",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Educated Upbringing"
+  ]
+ },
+ {
+  "text": "80% reduced chance for Memory Traces to lead towards the Incarnation of Neglect",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Remembered Kindness"
+  ]
+ },
+ {
+  "text": "A Map Boss is granted a random Essence Modifier from any Imprisoned Monsters slain in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Crystal Resonance"
+  ]
+ },
+ {
+  "text": "Abyss Chasms in your Maps spawn 150% increased Monsters per fed Soul",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Lightless Chasm"
+  ]
+ },
+ {
+  "text": "Abyss Jewels found in your Maps have 25% chance to be Corrupted and have 5 or 6 random Modifiers",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Suffused with Darkness"
+  ]
+ },
+ {
+  "text": "Abyss Jewels found in your Maps have 25% chance to have a Veiled Modifier",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Suffused with Darkness"
+  ]
+ },
+ {
+  "text": "Abyss Monsters in your Maps grant 50% increased Experience",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Abyssal Army"
+  ]
+ },
+ {
+  "text": "Abyss Pits in your Maps are twice as likely to have Rewards",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Subterranean Treasures"
+  ]
+ },
+ {
+  "text": "Abyss Pits in your Maps have 10% chance to be guarded by 5 additional Rare Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Servants of the Well"
+  ]
+ },
+ {
+  "text": "Abyss Pits in your Maps have 8% chance to spawn all Monsters as at least Magic for each prior Pit closed",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Darkness Rising"
+  ]
+ },
+ {
+  "text": "Abyss Pits in your Maps spawn 4% increased Monsters for each prior Pit closed",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Darkness Rising"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps can spawn Abyssal Weavings instead of Abyssal Troves",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Subterranean Treasures"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps have 100% increased chance to lead to an Abyssal Depths",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Awakened Depths"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps have a 25% chance to contain 3 additional Pits",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Sustained Horde"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps roll number of Pits twice, keeping the highest value",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Sustained Horde"
+  ]
+ },
+ {
+  "text": "Abysses in your Maps spawn 20% increased Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Abyssal Army"
+  ]
+ },
+ {
+  "text": "Ailith's skills in your Maps instead enrage the Hive, increasing the Difficulty and Reward of subsequent waves",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Ailith's Provocation"
+  ]
+ },
+ {
+  "text": "Allied Mercenaries in your Maps deal 100% more Damage against\nMercenaries and Rogue Exiles",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Contract Killers"
+  ]
+ },
+ {
+  "text": "At least 3 Equipment Items on Infamous Mercenaries found in your Maps are Unique",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Renowned Fighter"
+  ]
+ },
+ {
+  "text": "Atlas Anomalies manifest on completing Shaped Regions instead of on Map Completion\nAtlas Anomalies can manifest from any Quadrant",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Phantom Anomalies"
+  ]
+ },
+ {
+  "text": "Beasts in your Maps are more likely to be less common varieties",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Endangered Species"
+  ]
+ },
+ {
+  "text": "Bismuth Ore Deposits in your Maps have 30% chance to add an additional Modifier to Monsters they affect",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Bismuth Infusion"
+  ]
+ },
+ {
+  "text": "Blight Chests in your Maps have 60% more chance to contain Blighted Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Biological Vector"
+  ]
+ },
+ {
+  "text": "Blight Encounters in your Maps are more likely to contain multiple Lanes",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Sprawling Veins"
+  ]
+ },
+ {
+  "text": "Blight Encounters in your Maps contain up to 2 additional Blight Bosses",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Virulent Plague"
+  ]
+ },
+ {
+  "text": "Blight Lanes in your Maps have +15% Surpassing Chance to have an additional reward per Lane in Blight encounter",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Mycelial Swarm"
+  ]
+ },
+ {
+  "text": "Blight Monsters in your Maps have 6% increased Item Rarity",
+  "count": 1,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Blight Monster Rarity"
+  ]
+ },
+ {
+  "text": "Blight Monsters in your Maps spawn 150% faster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rampant Infection"
+  ]
+ },
+ {
+  "text": "Blight Monsters in your Maps take 75% less Damage from Players and their Minions\nBlight Towers and their Minions in your Maps deal 300% more Damage",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Cassia's Pride"
+  ]
+ },
+ {
+  "text": "Blight Towers in your Maps can be Salvaged after the Blight Encounter",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Templar Ingenuity"
+  ]
+ },
+ {
+  "text": "Breach Bosses in your Maps have 25% chance to be Duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fortified Dominance"
+  ]
+ },
+ {
+  "text": "Breach Bosses in your Maps have 50% chance to drop an additional Wombgift",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fecund Colony"
+  ]
+ },
+ {
+  "text": "Breach Encounters in your Maps are 20% faster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Violent Skirmish"
+  ]
+ },
+ {
+  "text": "Breach Encounters in your Maps are always",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Divide and Conquer"
+  ]
+ },
+ {
+  "text": "Breach Encounters in your Maps are always Hives",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Divide and Conquer"
+  ]
+ },
+ {
+  "text": "Breach Encounters in your Maps are always Unstable Breaches",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Divide and Conquer"
+  ]
+ },
+ {
+  "text": "Breach Hives in your Maps have 3 additional waves of Hiveborn Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Protracted Siege"
+  ]
+ },
+ {
+  "text": "Breach Hives in your Maps have 60% increased chance to lead to Fortresses",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fortified Dominance"
+  ]
+ },
+ {
+  "text": "Buffs granted by Orichalcum Ore Deposits in your Maps have 100% increased Duration",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Orichalcum Infusion"
+  ]
+ },
+ {
+  "text": "Buffs granted by Verisium Ore Deposits in your Maps have 100% increased Duration",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Verisium Infusion"
+  ]
+ },
+ {
+  "text": "Cannot have a Boss in the final Round",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Gruelling Gauntlet"
+  ]
+ },
+ {
+  "text": "Capturable Beasts in your Maps have Bestial Rage\nDefeating capturable Beasts grants a stack of Hunters' Cunning",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Beasts of Prey"
+  ]
+ },
+ {
+  "text": "Completing the final Ritual Altar in your Maps has 25% chance to drop a Blood-filled Vessel",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Sacrificial Due"
+  ]
+ },
+ {
+  "text": "Crimson Iron Ore Deposits in your Maps are guarded by 2 additional Corrupted Growths",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Crimson Infusion"
+  ]
+ },
+ {
+  "text": "Defeating a Map Boss while Witnessed by The Maven has 10% chance to count as also Witnessing an additional random Map Boss",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "The Most Toys"
+  ]
+ },
+ {
+  "text": "Divination Cards dropped by Final Map Boss have 30% chance to be duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fate Bespoken"
+  ]
+ },
+ {
+  "text": "Divination Cards found in your Maps are from two random other Maps instead of the one you're in",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "The Paths Not Taken"
+  ]
+ },
+ {
+  "text": "Divination Cards which drop in your Maps are stolen by the Final Map Boss",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fate Bespoken"
+  ]
+ },
+ {
+  "text": "Each Empowering Tower in your Maps grants Blighted Monsters in range increased Difficulty and Reward",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Immunosuppression"
+  ]
+ },
+ {
+  "text": "Each Legion in your Maps contains an additional War Hoard",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Extra Provisions"
+  ]
+ },
+ {
+  "text": "Einhar deals 1000% more Damage to Unique Monsters in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fellow Hunter"
+  ]
+ },
+ {
+  "text": "Einhar remains in your Maps after his Mission is Complete",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fellow Hunter"
+  ]
+ },
+ {
+  "text": "Eldritch Altars Influenced by The Eater of Worlds have 50% increased Effect of Upsides",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Eldritch Gaze"
+  ]
+ },
+ {
+  "text": "Eldritch Altars Influenced by The Eater of Worlds have an additional Downside",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Eldritch Gaze"
+  ]
+ },
+ {
+  "text": "Eldritch Altars Influenced by The Searing Exarch have 50% chance to have an additional Upside",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Wrath of the Cosmos"
+  ]
+ },
+ {
+  "text": "Eldritch Altars Influenced by The Searing Exarch which have an additional Upside have 100% increased Effect of Downsides",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Wrath of the Cosmos"
+  ]
+ },
+ {
+  "text": "Eldritch Embers found in your Maps influenced by The Searing Exarch have 10% chance to be Duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Word of the Exarch"
+  ]
+ },
+ {
+  "text": "Eldritch Ichor found in your Maps influenced by The Eater of Worlds have 10% chance to be Duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rampant Growth"
+  ]
+ },
+ {
+  "text": "Equipment Item Favours from Ritual Altars in your Maps are unidentified and can have Item Tiers",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Blind Allegiance"
+  ]
+ },
+ {
+  "text": "Expedition Detonation Chains in your Maps travel 50% faster",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Detonation"
+  ]
+ },
+ {
+  "text": "Expedition Detonation Chains in your Maps travel 50% slower",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Detonation"
+  ]
+ },
+ {
+  "text": "Expedition Monsters in your Maps gain increased Difficulty and Reward for each Remnant detonated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Nothing Ventured, Nothing Gained"
+  ]
+ },
+ {
+  "text": "Expeditions in your Maps have 150% increased chance to be led by Gwennen",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Kalguuran Companionship"
+  ]
+ },
+ {
+  "text": "Expeditions in your Maps have 150% increased chance to be led by Rog",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Kalguuran Companionship"
+  ]
+ },
+ {
+  "text": "Expeditions in your Maps have 150% increased chance to be led by Tujen",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Kalguuran Companionship"
+  ]
+ },
+ {
+  "text": "Expeditions in your Maps have 75% increased chance to be led by Dannig",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Kalguuran Companionship"
+  ]
+ },
+ {
+  "text": "Explicit Modifiers on Sacred Flora in your Maps have 50% increased effect",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rich Soil"
+  ]
+ },
+ {
+  "text": "Explicit Modifiers on Strongboxes in your Maps have 50% increased effect",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Security Measures"
+  ]
+ },
+ {
+  "text": "Favours at Ritual Altars in your Maps randomly cost between 90% less and 80% more",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Arbitrary Tenets"
+  ]
+ },
+ {
+  "text": "Final Map Boss deals 1% increased Damage per stolen Divination Card",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fate Bespoken"
+  ]
+ },
+ {
+  "text": "Final Map Boss has 2% increased Toughness per stolen Divination Card",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fate Bespoken"
+  ]
+ },
+ {
+  "text": "Final Map Boss in each Map has +3% chance to drop a Shaper Guardian Map (Tier 14+)",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Remnants of the Past"
+  ]
+ },
+ {
+  "text": "Final Map Boss in each Map has +3% chance to drop an Elder Guardian Map (Tier 14+)",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Remnants of the Past"
+  ]
+ },
+ {
+  "text": "Final Map Boss in each Map has 25% chance to drop an additional Thread",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Chittering Champions"
+  ]
+ },
+ {
+  "text": "Final Map Boss in each Map has 5% chance to drop an additional Map at a tier higher",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the World"
+  ]
+ },
+ {
+  "text": "Final Map Bosses in your tier 16 Maps have 3% chance per Essence Modifier on them to drop a Calcified Map, up to a maximum of 15%",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Crystal Resonance"
+  ]
+ },
+ {
+  "text": "Flammable Burrows in your Maps have 100% increased Explosion Radius",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Kindled Flame"
+  ]
+ },
+ {
+  "text": "Grasping Coffers in your Maps have 50% increased chance to contain Wombgifts",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fecund Colony"
+  ]
+ },
+ {
+  "text": "Hive Encounters in your Maps grant 3% increased Hiveblood and Wombgifts per Flammable Burrow destroyed",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Kindled Flame"
+  ]
+ },
+ {
+  "text": "Hive Monsters in your Maps have 5% increased Toughness per Flammable Burrow destroyed",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Kindled Flame"
+  ]
+ },
+ {
+  "text": "If there are fewer than 50 monsters remaining in your Maps, Final Map Bosses are Empowered by Wildwood Wisps",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Thorough Exploration"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Leaders in your Maps drop an additional Veiled Item",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Head of the Snake"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members Executed in your Maps have 50% chance to gain an additional Rank",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Enduring Legacy"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members in your Maps are 100% more likely to be accompanied by their Leader",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Head of the Snake"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members in your Maps drop 200% more\nItems when Bargained with for Items",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hard Bargain"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members in your Maps have 25% chance to drop an additional Double-Veiled Item",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Secrets Unveiled"
+  ]
+ },
+ {
+  "text": "Immortal Syndicate Members in your Maps have 30% increased chance to be accompanied by reinforcements",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hidden Flank"
+  ]
+ },
+ {
+  "text": "Imprisoned Monsters in your Maps are Possessed and their Minions are Touched",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Supernatural Genesis"
+  ]
+ },
+ {
+  "text": "Imprisoned Monsters in your Maps can be Corrupted an additional time",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Recrystallisation"
+  ]
+ },
+ {
+  "text": "Imprisoned Monsters in your Maps have 15% chance to have 3 additional Essences",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Crystal Lattice"
+  ]
+ },
+ {
+  "text": "Imprisoned Monsters in your Maps have at least 1 Essence at the highest possible tier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Amplified Energies"
+  ]
+ },
+ {
+  "text": "Incursion Architects in your Maps are Possessed by a Tormented Spirit",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Architects of Demise"
+  ]
+ },
+ {
+  "text": "Incursion Architects in your Maps have 100% increased Toughness",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Architects of Demise"
+  ]
+ },
+ {
+  "text": "Incursion Architects in your Maps have an additional Monster Modifier for each Incursion completed in the Area",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Architects of Demise"
+  ]
+ },
+ {
+  "text": "Incursion Portals spawn packs of Invading Incursion Monsters upon exiting Incursions in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Soldiers of Yore"
+  ]
+ },
+ {
+  "text": "Incursions in your Maps have 25% increased Pack Size",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Time Dilation"
+  ]
+ },
+ {
+  "text": "Incursions in your Maps have 33% chance for all Monsters to be at least Magic",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Military Reserves"
+  ]
+ },
+ {
+  "text": "Inscribed Ultimatums found in your Maps have 80% increased chance to reward Currency Items",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trialmaster's Boon"
+  ]
+ },
+ {
+  "text": "Inscribed Ultimatums found in your Maps have 80% increased chance to reward Divination Cards",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trialmaster's Boon"
+  ]
+ },
+ {
+  "text": "Inscribed Ultimatums found in your Maps have 80% increased chance to reward Unique Items",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trialmaster's Boon"
+  ]
+ },
+ {
+  "text": "Interrogated Immortal Syndicate targets in your Maps have 30% chance to not lose Rank upon completing Interrogation",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unconditional Release"
+  ]
+ },
+ {
+  "text": "Killing non-resident Architects in your Maps adds an additional Upgrade Tier to the surviving Architect's Room",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Power Struggle"
+  ]
+ },
+ {
+  "text": "Killing resident Architects in your Maps adds their Upgrade Tier to the surviving Architect's Room",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Power Struggle"
+  ]
+ },
+ {
+  "text": "Labyrinth Trials in your Maps have 25% chance to award an Improved Offering to the Goddess",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trial of Glory"
+  ]
+ },
+ {
+  "text": "Legion Chests in your Maps contain an additional Random Reward",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Extra Provisions"
+  ]
+ },
+ {
+  "text": "Legion Chests in your Maps have a 25% chance to spread their Rewards to\nLegion Monsters they release from stasis when they are broken out\nLegion Monsters that have gained Rewards have increased Difficulty",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Spoils of War"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps contain 4 additional Sergeants",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Chain of Command"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 100% increased chance to include a Karui army",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 100% increased chance to include a Vaal army",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 100% increased chance to include an Eternal Empire army",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 20% increased Duration",
+  "count": 1,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Legion Duration"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 60% increased chance to include a Maraketh army",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 60% increased Duration",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Prolonged Struggle"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have 80% increased chance to include a Templar army",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Encounters in your Maps have no Timer\nBreaking out Monsters and Chests that are in stasis progressively causes a Schism\nLegion Encounters in your Maps begin once the Schism has occurred",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Timeless Conflict"
+  ]
+ },
+ {
+  "text": "Legion Encounters with a General in your Maps have both Generals",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Leader of Men"
+  ]
+ },
+ {
+  "text": "Legion Generals in your Maps have 30% increased chance to drop a Karui Enshrouding Crystal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Generals in your Maps have 30% increased chance to drop a Maraketh Enshrouding Crystal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Generals in your Maps have 30% increased chance to drop a Templar Enshrouding Crystal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Generals in your Maps have 30% increased chance to drop a Vaal Enshrouding Crystal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Generals in your Maps have 30% increased chance to drop an Imperial Enshrouding Crystal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blood Feud"
+  ]
+ },
+ {
+  "text": "Legion Monsters in your Maps gain 50% more Life for each additional Reward they have",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Battle-Tested"
+  ]
+ },
+ {
+  "text": "Legion Monsters in your Maps take 60% increased Damage while in Stasis",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Prolonged Struggle"
+  ]
+ },
+ {
+  "text": "Legion Monsters in your Maps which have Rewards have 15% chance to gain two additional Rewards, and if not have 25% chance to gain one additional Reward",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Battle-Tested"
+  ]
+ },
+ {
+  "text": "Lifeforce dropped by Sacred Fauna in your Maps has 15% chance to be Duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Doubling Season"
+  ]
+ },
+ {
+  "text": "Logbooks found in your Maps always have 4 Implicit Modifiers",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Nothing Ventured, Nothing Gained"
+  ]
+ },
+ {
+  "text": "Map Bosses have 10% chance to be surrounded by Tormented Spirits",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unrelenting Torment"
+  ]
+ },
+ {
+  "text": "Map Bosses have 100% increased chance to drop a Conqueror Map",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Conquered Conquerors"
+  ]
+ },
+ {
+  "text": "Map Bosses have 20% chance to be accompanied by two Rogue Exile Bodyguards",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Royal Guard"
+  ]
+ },
+ {
+  "text": "Map Bosses have 50% chance to spawn a Golden Volatile on death",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Affluent Parasites"
+  ]
+ },
+ {
+  "text": "Map Device has 20% chance not to consume Threads",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Subtle Manipulations"
+  ]
+ },
+ {
+  "text": "Maps modified in this way have 1-3 additional random Map Modifiers",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Twist of Fate"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps always have full Rucksacks",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Loot and Pillage"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps are accompanied by two Wild Mercenaries",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Stacked Odds"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps are affected by a random Shrine buff",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Faith in Arms"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps have 20% increased Cooldown Recovery Rate",
+  "count": 1,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mercenary Cooldown Recovery"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps have 20% increased effect of Auras from their Skills",
+  "count": 1,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Mercenary Aura Effect"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps have 30% increased Cooldown Recovery Rate",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trarthan Vapours"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps have 30% increased effect of Auras from their Skills",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Faith in Arms"
+  ]
+ },
+ {
+  "text": "Mercenaries found in your Maps have Onslaught",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trarthan Vapours"
+  ]
+ },
+ {
+  "text": "Mercenary Wagers in your Maps require 100% increased Gold",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "High Stakes"
+  ]
+ },
+ {
+  "text": "Mercenary Wagers in your Maps return 30% increased Gold if you win",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "High Stakes"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by The Eater of Worlds in your Maps have 2% chance to contain an additional Touching Tentacle Mass",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rampant Growth"
+  ]
+ },
+ {
+  "text": "Monster Packs Influenced by The Searing Exarch in your Maps have 2% chance to contain an additional Possessing Flame Wraith",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Word of the Exarch"
+  ]
+ },
+ {
+  "text": "Monsters in your Maps deal 25% less Damage",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Wellspring of Creation"
+  ]
+ },
+ {
+  "text": "Monsters in your Maps deal 25% more Damage",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Dance of Destruction"
+  ]
+ },
+ {
+  "text": "Monsters in your Maps have 25% less Life",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Dance of Destruction"
+  ]
+ },
+ {
+  "text": "Monsters in your Maps have 50% more Life",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Wellspring of Creation"
+  ]
+ },
+ {
+  "text": "Non-final Abyss Pits in your Maps create an Abyssal Crystal on closing",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Reactive Swarm"
+  ]
+ },
+ {
+  "text": "Number of Explosives is one\n200% increased Explosive Radius in your Maps\nExpedition Monsters in your Maps spawn with an additional 10% of Life missing\n100% increased Explosive Placement Range in your Maps",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Extreme Archaeology"
+  ]
+ },
+ {
+  "text": "Ore Deposits in your Maps are more likely to be rarer varieties",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fortune's Favour"
+  ]
+ },
+ {
+  "text": "Ore Deposits in your Maps have 20% chance to contain doubled Ore",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Metamorphic Refinement"
+  ]
+ },
+ {
+  "text": "Ore Deposits in your Maps have 20% chance to grant Smelted Bars instead of Marking Ore",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Metamorphic Refinement"
+  ]
+ },
+ {
+  "text": "Petrified Amber Ore Deposits in your Maps take 25% reduced Damage",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Amber Infusion"
+  ]
+ },
+ {
+  "text": "Players cannot choose which Ultimatum Modifier is applied each Round",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Gruelling Gauntlet"
+  ]
+ },
+ {
+  "text": "Rare Monsters in your Maps have 50% increased chance to drop Threads per Monster Modifier affecting them",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Amplified Artefacts"
+  ]
+ },
+ {
+  "text": "Rare Monsters in your Maps have an additional Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Anomie"
+  ]
+ },
+ {
+  "text": "Red Beasts captured in your Maps gain a Modifier that provides a chance to not be consumed when sacrificed at the Blood Altar",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Nose-to-Tail"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 100% increased chance to be from\nYour Maps that contain capturable Beasts contain an additional Red Beast from",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hunting Grounds"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 100% increased chance to be from The Caverns\nYour Maps that contain capturable Beasts contain an additional Red Beast from The Caverns",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Hunting Grounds"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 100% increased chance to be from The Deep\nYour Maps that contain capturable Beasts contain an additional Red Beast from The Deep",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Hunting Grounds"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 100% increased chance to be from The Sands\nYour Maps that contain capturable Beasts contain an additional Red Beast from The Sands",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Hunting Grounds"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 100% increased chance to be from The Wilds\nYour Maps that contain capturable Beasts contain an additional Red Beast from The Wilds",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Hunting Grounds"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have 100% increased chance to drop a Talisman",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Apex Predators"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have an additional Bestiary Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Nose-to-Tail"
+  ]
+ },
+ {
+  "text": "Red Beasts in your Maps have Onslaught",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Apex Predators"
+  ]
+ },
+ {
+  "text": "Remnants in your Maps have 35% chance to have an additional Suffix Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Ancient Writings"
+  ]
+ },
+ {
+  "text": "Remnants in your Maps have an additional Prefix Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Untold Riches"
+  ]
+ },
+ {
+  "text": "Remnants in your Maps have an additional Suffix Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Untold Riches"
+  ]
+ },
+ {
+  "text": "Rerolling Favours at Ritual Altars in your Maps has no Cost 1 additional time",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Flexible Dogma"
+  ]
+ },
+ {
+  "text": "Revived Monsters from Ritual Altars in your Maps have 10% reduced penalty to Tribute gained",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Exacting Tribute"
+  ]
+ },
+ {
+  "text": "Revived Monsters from Ritual Altars in your Maps have 20% chance to be empowered by Wildwood Wisps per completed Ritual",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "A Light in the Dark"
+  ]
+ },
+ {
+  "text": "Ritual Altars in your Maps allow rerolling Favours 2 additional times",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Flexible Dogma"
+  ]
+ },
+ {
+  "text": "Ritual Altars in your Maps can have 30% increased number of Spawned Monsters at once",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Dogmatic Fervour"
+  ]
+ },
+ {
+  "text": "Ritual Altars in your Maps spawn Monsters 30% faster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Dogmatic Fervour"
+  ]
+ },
+ {
+  "text": "Ritual Rewards in your Maps contain an additional Rare Itemised Corpse Monster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Burial Rites"
+  ]
+ },
+ {
+  "text": "Rituals Altars in your Maps offer 30% increased Favours",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Blood Pact"
+  ]
+ },
+ {
+  "text": "Rogue Exiles in your Maps have 100% more Life",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rogue Trader"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps drop 4% increased Quantity of Lifeforce",
+  "count": 1,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Additional Lifeforce"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps grant 100% increased Experience",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Bountiful Harvest"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps grants random Crops equal to 100% of Lifeforce dropped",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Verdant Lands"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps have 50% increased chance to be a Boss",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Heart of the Grove"
+  ]
+ },
+ {
+  "text": "Sacred Fauna in your Maps have 50% more Life",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Verdant Lands"
+  ]
+ },
+ {
+  "text": "Sacred Flora in your Maps cannot be Normal Rarity",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Heart of the Grove"
+  ]
+ },
+ {
+  "text": "Sacred Flora in your Maps spreads twice as many Wildwood Wisps to Imprisoned Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Nature's Favour"
+  ]
+ },
+ {
+  "text": "Sacred Flora in your Maps spreads Wildwood Wisps to 30% increased Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Bountiful Harvest"
+  ]
+ },
+ {
+  "text": "Shrines in your Maps are guarded by at least one Magic Pack",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Drawn to Power"
+  ]
+ },
+ {
+  "text": "Shrines in your Maps grant a random additional Shrine Effect",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Syncretism"
+  ]
+ },
+ {
+  "text": "Shrines in your Maps have 50% chance to be guarded by an additional Pack of Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Drawn to Power"
+  ]
+ },
+ {
+  "text": "Stones of Passage on the ground are converted to Gold when Incursions end in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Passage of Time"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Corrupted Maps have 10% chance to be replaced with Vaal Vessels",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Secrets of the Vaal"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps are at least Rare",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Tamper-Proof"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps are Corrupted",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Secrets of the Vaal"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps are more likely to be rarer varieties",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fortune Seeker"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps can have a modifier to contain a Mercenary",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Exotic Repositories"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps have 40% increased chance to spawn Magic Packs",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hidden Horrors"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps have 40% increased chance to spawn Rare Packs",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hidden Horrors"
+  ]
+ },
+ {
+  "text": "Strongboxes in your Maps spawn 25% increased number of Packs",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Hidden Horrors"
+  ]
+ },
+ {
+  "text": "Strongboxes opened in your Maps have 14% chance to be openable again",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Secret Compartments"
+  ]
+ },
+ {
+  "text": "The Maven casts Up the Stakes, summoning 1 to 3 additional Atlas Bosses when Witnessing Map Bosses\nThe number of additional Bosses summoned is higher if there are fewer monsters remaining in the Map\nModifiers to the Final Map Boss in each Map also apply to these summoned Bosses",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Destructive Play"
+  ]
+ },
+ {
+  "text": "The number of Memory Strands on Equipment Items found in your Maps has 50% chance to be Lucky",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Grasp the Past"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Abyss",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unthreaded"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Bestiary",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unthreaded"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Betrayal",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unthreaded"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Blight",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unthreaded"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Breach",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Threadbare"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Expedition",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Threadbare"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Incursion",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Threadbare"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Legion",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Unthreaded"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Ritual",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Threadbare"
+  ]
+ },
+ {
+  "text": "Threads found in your Maps cannot be of type Ultimatum",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Threadbare"
+  ]
+ },
+ {
+  "text": "Tier 1-15 Maps found have 10% chance to become 1 tier higher",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the World"
+  ]
+ },
+ {
+  "text": "Tier 1-15 Maps found have 8% chance to become 1 tier higher",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Emerging Realities"
+  ]
+ },
+ {
+  "text": "Time gained from Kills is Doubled for Incursions in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Time Dilation"
+  ]
+ },
+ {
+  "text": "Time gained from Kills is Halved for Incursions in your Maps",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Time Dilation"
+  ]
+ },
+ {
+  "text": "Tormented Spirits in your Maps are more likely to be less common varieties",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unrelenting Torment"
+  ]
+ },
+ {
+  "text": "Tormented Spirits in your Maps can Possess Players for 30 seconds\nTormented Spirits in your Maps cannot Possess Monsters",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Speaker of the Dead"
+  ]
+ },
+ {
+  "text": "Tormented Spirits in your Maps cannot be Damaged",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Reality Tether"
+  ]
+ },
+ {
+  "text": "Tormented Spirits in your Maps have 100% increased Duration",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Reality Tether"
+  ]
+ },
+ {
+  "text": "Tormented Spirits in your Maps have a 10% chance to be set free when\nPossessed Monsters are slain and dig up a Rare Monster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Disturb the Dead"
+  ]
+ },
+ {
+  "text": "Ultimatum Altars in your Maps have 75% increased Life",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Boss drops 10 of a random Catalyst",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Brave The Tower"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps can have random Rounds replaced with Oversoul Rounds",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Ancient Machinations"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps get 3% reduced Radius each Round",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Stand Your Ground"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps grant rewards as though you completed an additional Round",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Stand Your Ground"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps have 100% increased chance to only require you to Survive",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps have 100% increased chance to require you to defeat waves of Enemies",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps have 100% increased chance to require you to protect the Altar",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps have 100% increased chance to require you to Stand in the Stone Circles",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps have 30% increased chance for the final Round to include a Boss",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Brave The Tower"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps last up to 13 Rounds",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Gruelling Gauntlet"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps only requiring you to Survive have 30% reduced duration",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Encounters in your Maps requiring you to Defeat waves of Enemies require killing 30% reduced number of Enemies",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Ultimatum Modifiers in your Maps start a Tier higher if possible",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Prove Yourself Worthy"
+  ]
+ },
+ {
+  "text": "Ultimatum Monsters and Modifiers in your Maps deal 10% reduced Damage",
+  "count": 1,
+  "kinds": [
+   "normal"
+  ],
+  "ex": [
+   "Ultimatum Monster Reduced Damage"
+  ]
+ },
+ {
+  "text": "Ultimatum Monsters and Modifiers in your Maps deal 50% less Damage",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Ruinous Wager"
+  ]
+ },
+ {
+  "text": "Ultimatum Monsters in your Maps apply Ruin with their special abilities\nFail on reaching 7 Ruin",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Ruinous Wager"
+  ]
+ },
+ {
+  "text": "Ultimatum Monsters in your Maps grant 10% increased Experience per Round",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trial by Fire"
+  ]
+ },
+ {
+  "text": "Ultimatum Monsters in your Maps have 4% increased Item Rarity per Round",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trial by Fire"
+  ]
+ },
+ {
+  "text": "Ultimatum Rewards in your Maps have 25% chance to be duplicated",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Prove Yourself Worthy"
+  ]
+ },
+ {
+  "text": "Ultimatum Rewards in your Maps have 80% increased chance to be Currency Items",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trialmaster's Boon"
+  ]
+ },
+ {
+  "text": "Ultimatum Rewards in your Maps have 80% increased chance to be Divination Cards",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trialmaster's Boon"
+  ]
+ },
+ {
+  "text": "Ultimatum Rewards in your Maps have 80% increased chance to be Unique Items",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Trialmaster's Boon"
+  ]
+ },
+ {
+  "text": "Ultimatum Stone Circles in your Maps have 40% increased radius",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Controlled Chaos"
+  ]
+ },
+ {
+  "text": "Unique Blight Bosses in your Maps have 50% increased Life",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Virulent Plague"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps deal 1% increased Damage per 1% Map Pack Size",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Gross Abnormalities"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps grant 50% increased Experience",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Height of Horror"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps have 1% increased Toughness per 1% Map Pack Size",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Gross Abnormalities"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps have 2 additional Monster Modifiers",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "True Terrors"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps have 200% increased chance to drop Threads",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Significant Troves"
+  ]
+ },
+ {
+  "text": "Unique Monsters in your Maps have an additional Monster Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Height of Horror"
+  ]
+ },
+ {
+  "text": "Unique Monsters slain at Ritual Altars in your Maps grant 100% more Tribute",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Exacting Tribute"
+  ]
+ },
+ {
+  "text": "Unstable Breaches in your Maps are 10% faster for each Unstable Breach already opened\nMonsters from Unstable Breaches in your Maps have increased Difficulty and Reward for each Breach already opened",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Multiple Fronts"
+  ]
+ },
+ {
+  "text": "Unstable Breaches in your Maps spawn 2 additional Rare Monsters when Stabilised",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Clawed Open"
+  ]
+ },
+ {
+  "text": "Unstable Breaches in your Maps take 8 additional seconds to collapse after timer is filled",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Clawed Open"
+  ]
+ },
+ {
+  "text": "Up to 5 Rare Monsters in each of your Maps are Possessed and their Minions are Touched",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Seance"
+  ]
+ },
+ {
+  "text": "Using a Stone of Passage in your Maps empowers Monsters in the Incursion with Doryani's Safeguards",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Passage of Time"
+  ]
+ },
+ {
+  "text": "Using a Vaal Orb on Imprisoned Monsters in your Maps replaces all Essences with one of the Essences on the Imprisoned Monster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Commensurate Corruption"
+  ]
+ },
+ {
+  "text": "Varieties of Items contained in 5 Blight Chests in your Maps are Lucky",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Epidemiology"
+  ]
+ },
+ {
+  "text": "Wild Rogue Exiles in your Maps are Possessed by a Tormented Spirit",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Exiled Will"
+  ]
+ },
+ {
+  "text": "Wild Rogue Exiles in your Maps have 20% chance to be accompanied by a Wild Mercenary",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unlikely Partnership"
+  ]
+ },
+ {
+  "text": "Wild Rogue Exiles in your Maps have 25% chance to be imprisoned in Essences",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Supernatural Genesis"
+  ]
+ },
+ {
+  "text": "Wild Rogue Exiles in your Maps have 50% chance to have additional Rewards",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Rogue Trader"
+  ]
+ },
+ {
+  "text": "Wildwood Wisps spread by Sacred Flora in your Maps prioritise Imprisoned Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Nature's Favour"
+  ]
+ },
+ {
+  "text": "Yellow Beasts in your Maps have 25% chance to be replaced with Red Beasts",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Herd Mentality"
+  ]
+ },
+ {
+  "text": "You can only apply one type of Thread to your Maps",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Unwavering Vision"
+  ]
+ },
+ {
+  "text": "Your Corrupted Rare Maps are modified unpredictably when opened",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Twist of Fate"
+  ]
+ },
+ {
+  "text": "Your Maps are opened with 5 additional random Unallocated Notable Atlas Passives",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Overloaded Circuits"
+  ]
+ },
+ {
+  "text": "Your Maps contain 10% more Monster Packs consisting of difficult and rewarding Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Invasive Adversaries"
+  ]
+ },
+ {
+  "text": "Your Maps contain 3 additional Packs with Mirrored Rare Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Imperfect Reflections"
+  ]
+ },
+ {
+  "text": "Your Maps contain 50% increased number of Runic Monster Markers",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Dead and Buried"
+  ]
+ },
+ {
+  "text": "Your Maps contain an additional Apparition Shrine",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "False Prophets"
+  ]
+ },
+ {
+  "text": "Your Maps contains 4 additional Packs of Divination-Touched Magic Monsters",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Haruspicy"
+  ]
+ },
+ {
+  "text": "Your Maps have +20% chance to be inhabited by a Mercenary",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Merged Worlds"
+  ]
+ },
+ {
+  "text": "Your Maps have +30% chance to be inhabited by a Mercenary",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Minor Fiefdoms"
+  ]
+ },
+ {
+  "text": "Your Maps have +30% chance to contain multiple Ore Deposits",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Yield Upon Yield"
+  ]
+ },
+ {
+  "text": "Your Maps have +30% Surpassing Chance to contain Sacred Flora",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blended Realities"
+  ]
+ },
+ {
+  "text": "Your Maps have +40% Surpassing Chance to contain Sacred Flora",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Call of the Grove"
+  ]
+ },
+ {
+  "text": "Your Maps have +50% Surpassing Chance to be haunted by a Tormented Spirit",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blended Realities"
+  ]
+ },
+ {
+  "text": "Your Maps have +50% Surpassing Chance to contain a Rogue Exile",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Merged Worlds"
+  ]
+ },
+ {
+  "text": "Your Maps have +50% Surpassing Chance to contain a Shrine",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blended Realities"
+  ]
+ },
+ {
+  "text": "Your Maps have +50% Surpassing Chance to contain a Strongbox",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Merged Worlds"
+  ]
+ },
+ {
+  "text": "Your Maps have +50% Surpassing Chance to contain an Imprisoned Monster",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Blended Realities"
+  ]
+ },
+ {
+  "text": "Your Maps have +6% chance to contain a Trial of Ascendancy",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Trial of Glory"
+  ]
+ },
+ {
+  "text": "Your Maps have +60% Surpassing Chance to be haunted by a Tormented Spirit",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Paranormal Meeting"
+  ]
+ },
+ {
+  "text": "Your Maps have +60% Surpassing Chance to contain a Rogue Exile",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unexpected Stranger"
+  ]
+ },
+ {
+  "text": "Your Maps have +60% Surpassing Chance to contain a Shrine",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Supplication"
+  ]
+ },
+ {
+  "text": "Your Maps have +60% Surpassing Chance to contain a Strongbox",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Twice Tempted"
+  ]
+ },
+ {
+  "text": "Your Maps have +60% Surpassing Chance to contain an Imprisoned Monster",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Prolific Essence"
+  ]
+ },
+ {
+  "text": "Your Maps have 10% chance to award double progress towards encountering The Eater of Worlds",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Etched by Acid"
+  ]
+ },
+ {
+  "text": "Your Maps have 10% chance to award double progress towards encountering The Searing Exarch",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Baptised by Fire"
+  ]
+ },
+ {
+  "text": "Your Maps have 4% chance to drop a Scrying Orb on Completion (Tier 14+)",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Altered Prophecy"
+  ]
+ },
+ {
+  "text": "Your Maps have 40% increased chance to contain a Buried Sentinel",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Outside Entities"
+  ]
+ },
+ {
+  "text": "Your Maps have 40% increased chance to contain a Demonic Evocator",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Outside Entities"
+  ]
+ },
+ {
+  "text": "Your Maps have 40% increased chance to contain a Mirage",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Outside Entities"
+  ]
+ },
+ {
+  "text": "Your Maps have 40% increased chance to contain a Mirror of Delirium",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Outside Entities"
+  ]
+ },
+ {
+  "text": "Your Maps have 40% increased chance to contain the Viridian Wildwood",
+  "count": 1,
+  "kinds": [
+   "notable:choice"
+  ],
+  "ex": [
+   "Outside Entities"
+  ]
+ },
+ {
+  "text": "Your Maps have 50% increased chance to contain a Buried Sentinel",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Unearthed Construct"
+  ]
+ },
+ {
+  "text": "Your Maps have 50% increased chance to contain a Demonic Evocator",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Torn Veil"
+  ]
+ },
+ {
+  "text": "Your Maps have 50% increased chance to contain a Mirage",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Timeworn Sands"
+  ]
+ },
+ {
+  "text": "Your Maps have 50% increased chance to contain a Mirror of Delirium",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Descent Into Madness"
+  ]
+ },
+ {
+  "text": "Your Maps have 50% increased chance to contain the Viridian Wildwood",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Twilit Hollow"
+  ]
+ },
+ {
+  "text": "Your Maps have 60% increased chance to contain a Buried Sentinel",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Ancient Technologies"
+  ]
+ },
+ {
+  "text": "Your Maps have 60% increased chance to contain a Demonic Evocator",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Scent of Blood"
+  ]
+ },
+ {
+  "text": "Your Maps have 60% increased chance to contain a Mirage",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Fata Morgana"
+  ]
+ },
+ {
+  "text": "Your Maps have 60% increased chance to contain a Mirror of Delirium",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "That Which You Seek"
+  ]
+ },
+ {
+  "text": "Your Maps have 60% increased chance to contain the Viridian Wildwood",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Mystical Woods"
+  ]
+ },
+ {
+  "text": "Your Maps have a 8% chance to contain 20 additional Rogue Exiles",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Ruckus"
+  ]
+ },
+ {
+  "text": "Your Maps have an additional random Modifier",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Shaping the Valleys"
+  ]
+ },
+ {
+  "text": "Your Maps which contain Unstable Breaches have 1% chance to contain ten additional Unstable Breaches",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Massing Forces"
+  ]
+ },
+ {
+  "text": "Your Maps which contain Unstable Breaches have 10% chance to contain two additional Unstable Breaches",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Massing Forces"
+  ]
+ },
+ {
+  "text": "Your Maps which contain Unstable Breaches have 5% chance to contain three additional Unstable Breaches",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Massing Forces"
+  ]
+ },
+ {
+  "text": "Your Maps with Incursions always have four Incursions",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Artefacts of the Vaal"
+  ]
+ },
+ {
+  "text": "Your Maps with Ritual Altars always have four Ritual Altars",
+  "count": 1,
+  "kinds": [
+   "notable"
+  ],
+  "ex": [
+   "Occult Devotion"
+  ]
+ },
+ {
+  "text": "Your Maps with Threads applied gain 2 additional Threads, which can bypass the 8 Thread maximum",
+  "count": 1,
+  "kinds": [
+   "keystone"
+  ],
+  "ex": [
+   "Unwavering Vision"
+  ]
+ }
+]
